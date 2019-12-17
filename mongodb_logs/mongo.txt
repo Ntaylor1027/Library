@@ -1,0 +1,1309 @@
+Last login: Sun Jul 14 17:50:02 on ttys005
+Noahs-MacBook-Pro:~ noahtaylor$ brew install mongodb/brew/mongodb-community-shell
+Updating Homebrew...
+==> Auto-updated Homebrew!
+Updated 1 tap (homebrew/core).
+==> New Formulae
+asyncplusplus   gatsby-cli      libspng         netlify-cli     tflint
+cpl             libsixel        libvncserver    quickjs         whalebrew
+==> Updated Formulae
+node ✔                                   libfabric
+python ✔                                 libgphoto2
+yarn ✔                                   libgweather
+abcm2ps                                  libhdhomerun
+abcmidi                                  libheif
+ack                                      libjson-rpc-cpp
+acpica                                   libmatroska
+agda                                     libopenmpt
+aliyun-cli                               libphonenumber
+amazon-ecs-cli                           libpqxx
+ammonite-repl                            libraw
+angular-cli                              libsbol
+ansible                                  libshout
+apache-arrow                             libstatgrab
+apache-arrow-glib                        libsvm
+apache-flink                             libtensorflow
+aptly                                    libtrace
+arangodb                                 libuninameslist
+argon2                                   libuv
+armor                                    libvirt
+asdf                                     libvpx
+ask-cli                                  libxmlsec1
+astrometry-net                           libzdb
+atlantis                                 link-grammar
+atomist-cli                              linkerd
+aws-sdk-cpp                              liquibase
+awscli                                   lldpd
+azure-cli                                lmod
+babel                                    log4cplus
+bacula-fd                                log4shib
+balena-cli                               logcheck
+bazel                                    logstash
+beanstalkd                               lolcat
+bgpstream                                lxc
+binaryen                                 lynis
+bit                                      magic-wormhole
+bitrise                                  mame
+blink1                                   mdbook
+botan                                    media-info
+bro                                      mednafen
+btfs                                     mercurial
+bundletool                               mesa
+byacc                                    meson
+bzip2                                    mesos
+bzt                                      metabase
+caddy                                    micronaut
+cake                                     mill
+calicoctl                                minio
+cargo-completion                         minio-mc
+catimg                                   mkl-dnn
+certbot                                  mlkit
+cfengine                                 monero
+cfn-lint                                 monit
+cfssl                                    mono
+chakra                                   mpop
+chipmunk                                 msmtp
+chronograf                               mujs
+cimg                                     nats-server
+circleci                                 nco
+citus                                    neo4j
+cjdns                                    neovim
+ckan                                     netdata
+clhep                                    newt
+click                                    nickle
+clojure                                  nim
+cmake                                    nsd
+cockroach                                nss
+cocoapods                                ocrad
+cointop                                  ocrmypdf
+collectd                                 odpi
+conan                                    omega
+contentful-cli                           opa
+convox                                   opam
+cppcheck                                 open-zwave
+cpprestsdk                               openapi-generator
+creduce                                  openconnect
+cromwell                                 openhmd
+csound                                   openrct2
+csvq                                     opensaml
+curl                                     openshift-cli
+curl-openssl                             opensubdiv
+cxxopts                                  operator-sdk
+dbus                                     osc
+dcd                                      overmind
+deark                                    oxipng
+debianutils                              paket
+deno                                     pdns
+dependency-check                         pdnsrec
+devspace                                 perltidy
+di                                       petsc
+diff-so-fancy                            petsc-complex
+diffoscope                               pgbouncer
+digdag                                   php
+direvent                                 php@7.2
+dita-ot                                  phpmd
+django-completion                        phpunit
+dmd                                      picard-tools
+dnstwist                                 pioneer
+docfx                                    pius
+docker                                   pjproject
+docker-completion                        platformio
+docker-credential-helper                 pmd
+docker-credential-helper-ecr             png++
+doctl                                    poco
+doitlive                                 podofo
+dosbox                                   ponyc
+dovecot                                  postgresql
+dpkg                                     presto
+drone-cli                                prips
+dscanner                                 proguard
+dub                                      proj
+dynamips                                 prometheus
+eccodes                                  proteinortho
+eiffelstudio                             protobuf-c
+ejabberd                                 protoc-gen-go
+elixir                                   prototool
+enchant                                  pulumi
+eprover                                  pushpin
+erlang                                   pyenv
+erlang@21                                pyside
+esptool                                  qmmp
+ethereum                                 qt
+ettercap                                 r
+exa                                      rabbitmq
+exercism                                 radare2
+exploitdb                                re2
+faas-cli                                 recon-ng
+fasttext                                 redex
+faudio                                   remarshal
+ffmpeg                                   repo
+ffmpeg@2.8                               reposurgeon
+ffsend                                   rex
+fio                                      rke
+firebase-cli                             rpm2cpio
+flashrom                                 rsyslog
+flawfinder                               rtags
+fn                                       rush
+fonttools                                rust
+fossil                                   s3-backer
+freediameter                             s3ql
+freetype                                 sbcl
+frpc                                     scamper
+frps                                     sceptre
+frugal                                   serverless
+fs-uae                                   shc
+fselect                                  shibboleth-sp
+gammaray                                 ship
+gammu                                    sip
+gdal                                     skaffold
+gearsystem                               snakemake
+gegl                                     sonar-scanner
+geoserver                                sonarqube
+get_iplayer                              spice-protocol
+ghex                                     sqlmap
+ghostscript                              squid
+ghr                                      sshguard
+ginac                                    stanford-parser
+git-absorb                               stella
+git-cinnabar                             stern
+gitmoji                                  stress-ng
+glances                                  stuntman
+glib                                     suil
+glide                                    svgo
+glooctl                                  swagger-codegen
+gmic                                     swagger-codegen@2
+gmsh                                     swi-prolog
+gnuradio                                 swift-protobuf
+go                                       swiftlint
+godep                                    syncthing
+golang-migrate                           sysdig
+goreleaser                               tag
+gpgme                                    telegraf
+gr-osmosdr                               teleport
+gradle                                   termtosvg
+grails                                   terraform
+grakn                                    terragrunt
+graph-tool                               terrahub
+grpc                                     thors-serializer
+grpcurl                                  tmpreaper
+gsoap                                    tokei
+gst-plugins-bad                          tomcat
+gst-plugins-good                         tomcat@8
+gtk+3                                    topgrade
+guile                                    tox
+gxml                                     ttyd
+hadolint                                 twine-pypi
+hamlib                                   txr
+haskell-stack                            typescript
+hcloud                                   u-boot-tools
+helmfile                                 ucloud
+helmsman                                 uhd
+hidapi                                   ungit
+hqx                                      unzip
+hub                                      urh
+hwloc                                    uriparser
+hypre                                    userspace-rcu
+i2pd                                     uwsgi
+i386-elf-gcc                             v8
+i386-elf-gdb                             vala
+i386-elf-grub                            vert.x
+igv                                      vfuse
+imagemagick                              vim
+imagemagick@6                            vim@7.4
+imageoptim-cli                           vips
+influxdb                                 vmtouch
+ios-webkit-debug-proxy                   vnstat
+irssi                                    vulkan-headers
+isync                                    wandio
+janet                                    watson
+jboss-forge                              wcslib
+jenkins                                  webdis
+jenkins-lts                              webp
+jetty                                    webpack
+jfrog-cli-go                             websocat
+jhead                                    webtorrent-cli
+jlog                                     wgetpaste
+jsdoc3                                   widelands
+jsoncpp                                  wireguard-tools
+juju                                     wireshark
+klavaro                                  x265
+kore                                     xa
+kotlin                                   xml-tooling-c
+ktlint                                   xonsh
+kube-aws                                 xorriso
+kubeless                                 xsimd
+kubeprod                                 yash
+kubernetes-cli                           yaz
+kubernetes-helm                          ydcv
+kustomize                                ykpers
+kvazaar                                  youtube-dl
+landscaper                               zabbix
+languagetool                             zeromq
+lgogdownloader                           znc
+libbi                                    zshdb
+libebml                                  zurl
+libev
+==> Deleted Formulae
+smlnj
+
+==> Tapping mongodb/brew
+Cloning into '/usr/local/Homebrew/Library/Taps/mongodb/homebrew-brew'...
+remote: Enumerating objects: 12, done.
+remote: Counting objects: 100% (12/12), done.
+remote: Compressing objects: 100% (10/10), done.
+remote: Total 12 (delta 3), reused 6 (delta 0), pack-reused 0
+Unpacking objects: 100% (12/12), done.
+Tapped 5 formulae (43 files, 59.2KB).
+==> Installing mongodb-community-shell from mongodb/brew
+==> Downloading https://fastdl.mongodb.org/osx/mongodb-shell-osx-ssl-x86_64-4.0.
+######################################################################## 100.0%
+🍺  /usr/local/Cellar/mongodb-community-shell/4.0.10: 8 files, 37.7MB, built in 20 seconds
+Noahs-MacBook-Pro:~ noahtaylor$ ls
+Applications		Movies			get-pip.py
+Desktop			Music			node_modules
+Documents		Pictures		package-lock.json
+Downloads		Postman
+Library			Public
+Noahs-MacBook-Pro:~ noahtaylor$ cd Documents/
+Noahs-MacBook-Pro:Documents noahtaylor$ ls
+education	git-repos	imovie		school		work
+Noahs-MacBook-Pro:Documents noahtaylor$ cd git-repos/
+Noahs-MacBook-Pro:git-repos noahtaylor$ ls
+Fullstack-tutorial	hottakes-app
+ReactNotes		nodejs-template
+Noahs-MacBook-Pro:git-repos noahtaylor$ cd ..
+Noahs-MacBook-Pro:Documents noahtaylor$ ls
+education	git-repos	imovie		school		work
+Noahs-MacBook-Pro:Documents noahtaylor$ cd work/
+Noahs-MacBook-Pro:work noahtaylor$ ls
+Coding Cheat Sheets
+Noahs-MacBook-Pro:work noahtaylor$ cd ..
+Noahs-MacBook-Pro:Documents noahtaylor$ ls git-repos/
+Fullstack-tutorial	hottakes-app
+ReactNotes		nodejs-template
+Noahs-MacBook-Pro:Documents noahtaylor$ ls
+education	git-repos	imovie		school		work
+Noahs-MacBook-Pro:Documents noahtaylor$ cd education/
+Noahs-MacBook-Pro:education noahtaylor$ ls
+Documentation	Interview Prep	hackerrank
+Noahs-MacBook-Pro:education noahtaylor$ cd ..
+Noahs-MacBook-Pro:Documents noahtaylor$ ls
+education	git-repos	imovie		school		work
+Noahs-MacBook-Pro:Documents noahtaylor$ cd git-repos/
+Noahs-MacBook-Pro:git-repos noahtaylor$ ls
+Fullstack-tutorial	hottakes-app
+ReactNotes		nodejs-template
+Noahs-MacBook-Pro:git-repos noahtaylor$ cd ReactNotes/
+Noahs-MacBook-Pro:ReactNotes noahtaylor$ ls
+README.md		ReactNativeNotes
+Noahs-MacBook-Pro:ReactNotes noahtaylor$ mkdir folder
+Noahs-MacBook-Pro:ReactNotes noahtaylor$ rm folder/
+rm: folder/: is a directory
+Noahs-MacBook-Pro:ReactNotes noahtaylor$ mkdir database
+Noahs-MacBook-Pro:ReactNotes noahtaylor$ cd database/
+Noahs-MacBook-Pro:database noahtaylor$ ./mongo "mongodb+srv://cluster0-teuhy.mongodb.net/test" --username noahjt
+-bash: ./mongo: No such file or directory
+Noahs-MacBook-Pro:database noahtaylor$ mongo "mongodb+srv://cluster0-teuhy.mongodb.net/test" --username noahjt
+MongoDB shell version v4.0.10
+Enter password: 
+connecting to: mongodb://cluster0-shard-00-02-teuhy.mongodb.net.:27017,cluster0-shard-00-00-teuhy.mongodb.net.:27017,cluster0-shard-00-01-teuhy.mongodb.net.:27017/test?authSource=admin&gssapiServiceName=mongodb&replicaSet=Cluster0-shard-0&ssl=true
+2019-07-20T00:14:50.087-0600 I NETWORK  [js] Starting new replica set monitor for Cluster0-shard-0/cluster0-shard-00-02-teuhy.mongodb.net.:27017,cluster0-shard-00-00-teuhy.mongodb.net.:27017,cluster0-shard-00-01-teuhy.mongodb.net.:27017
+2019-07-20T00:14:50.769-0600 I NETWORK  [js] Successfully connected to cluster0-shard-00-02-teuhy.mongodb.net.:27017 (1 connections now open to cluster0-shard-00-02-teuhy.mongodb.net.:27017 with a 5 second timeout)
+2019-07-20T00:14:50.775-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Successfully connected to cluster0-shard-00-01-teuhy.mongodb.net.:27017 (1 connections now open to cluster0-shard-00-01-teuhy.mongodb.net.:27017 with a 5 second timeout)
+2019-07-20T00:14:51.534-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Successfully connected to cluster0-shard-00-00-teuhy.mongodb.net.:27017 (1 connections now open to cluster0-shard-00-00-teuhy.mongodb.net.:27017 with a 5 second timeout)
+2019-07-20T00:14:51.545-0600 I NETWORK  [js] Successfully connected to cluster0-shard-00-00-teuhy.mongodb.net:27017 (1 connections now open to cluster0-shard-00-00-teuhy.mongodb.net:27017 with a 5 second timeout)
+2019-07-20T00:14:51.634-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] changing hosts to Cluster0-shard-0/cluster0-shard-00-00-teuhy.mongodb.net:27017,cluster0-shard-00-01-teuhy.mongodb.net:27017,cluster0-shard-00-02-teuhy.mongodb.net:27017 from Cluster0-shard-0/cluster0-shard-00-00-teuhy.mongodb.net.:27017,cluster0-shard-00-01-teuhy.mongodb.net.:27017,cluster0-shard-00-02-teuhy.mongodb.net.:27017
+2019-07-20T00:14:52.060-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Successfully connected to cluster0-shard-00-02-teuhy.mongodb.net:27017 (1 connections now open to cluster0-shard-00-02-teuhy.mongodb.net:27017 with a 5 second timeout)
+2019-07-20T00:14:52.582-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Successfully connected to cluster0-shard-00-01-teuhy.mongodb.net:27017 (1 connections now open to cluster0-shard-00-01-teuhy.mongodb.net:27017 with a 5 second timeout)
+Implicit session: session { "id" : UUID("542321a6-204e-4091-9832-832792dea359") }
+MongoDB server version: 4.0.10
+Welcome to the MongoDB shell.
+For interactive help, type "help".
+For more comprehensive documentation, see
+	http://docs.mongodb.org/
+Questions? Try the support group
+	http://groups.google.com/group/mongodb-user
+MongoDB Enterprise Cluster0-shard-0:PRIMARY> show dbs
+admin  0.000GB
+local  4.909GB
+MongoDB Enterprise Cluster0-shard-0:PRIMARY> use first-test
+switched to db first-test
+MongoDB Enterprise Cluster0-shard-0:PRIMARY> show dbs
+admin  0.000GB
+local  4.909GB
+MongoDB Enterprise Cluster0-shard-0:PRIMARY> use first-test
+switched to db first-test
+MongoDB Enterprise Cluster0-shard-0:PRIMARY> db.users.insertOne({name: 'Max', age:29})
+{
+	"acknowledged" : true,
+	"insertedId" : ObjectId("5d32b289e2352166eb076f8b")
+}
+MongoDB Enterprise Cluster0-shard-0:PRIMARY> show dbs
+admin       0.000GB
+first-test  0.000GB
+local       4.909GB
+MongoDB Enterprise Cluster0-shard-0:PRIMARY> show collections
+users
+MongoDB Enterprise Cluster0-shard-0:PRIMARY> db.users.find()
+{ "_id" : ObjectId("5d32b289e2352166eb076f8b"), "name" : "Max", "age" : 29 }
+MongoDB Enterprise Cluster0-shard-0:PRIMARY> db.users.insertMany([{name:'Manuel'},{name:'Chris', age:25}]
+... )
+{
+	"acknowledged" : true,
+	"insertedIds" : [
+		ObjectId("5d32b2f4e2352166eb076f8c"),
+		ObjectId("5d32b2f4e2352166eb076f8d")
+	]
+}
+MongoDB Enterprise Cluster0-shard-0:PRIMARY> db.users.insertOne({name:'Lisa',age:26})
+{
+	"acknowledged" : true,
+	"insertedId" : ObjectId("5d32b336e2352166eb076f8e")
+}
+MongoDB Enterprise Cluster0-shard-0:PRIMARY> db.users.find({age:26})
+{ "_id" : ObjectId("5d32b336e2352166eb076f8e"), "name" : "Lisa", "age" : 26 }
+MongoDB Enterprise Cluster0-shard-0:PRIMARY> db.users.find({age: {$gt:25})
+... 
+... )
+2019-07-20T00:23:51.618-0600 E QUERY    [js] SyntaxError: missing } after property list @(shell):1:28
+MongoDB Enterprise Cluster0-shard-0:PRIMARY> db.users.find({age: {$gt:25}})
+{ "_id" : ObjectId("5d32b289e2352166eb076f8b"), "name" : "Max", "age" : 29 }
+{ "_id" : ObjectId("5d32b336e2352166eb076f8e"), "name" : "Lisa", "age" : 26 }
+MongoDB Enterprise Cluster0-shard-0:PRIMARY> db.users.insertOne({name:'Susanna',age:30,address:{street:'First Street', city:'New Orleans'}})
+{
+	"acknowledged" : true,
+	"insertedId" : ObjectId("5d32b3dbe2352166eb076f8f")
+}
+MongoDB Enterprise Cluster0-shard-0:PRIMARY> fb.users.find({"address.street":"First "Street"}
+2019-07-20T00:26:32.247-0600 E QUERY    [js] SyntaxError: missing } after property list @(shell):1:40
+MongoDB Enterprise Cluster0-shard-0:PRIMARY> fb.users.find({"address.street":"First "Street"})
+2019-07-20T00:26:45.170-0600 E QUERY    [js] SyntaxError: missing } after property list @(shell):1:40
+MongoDB Enterprise Cluster0-shard-0:PRIMARY> fb.users.find({"address.street":"First Street"})
+2019-07-20T00:27:00.030-0600 E QUERY    [js] ReferenceError: fb is not defined :
+@(shell):1:1
+MongoDB Enterprise Cluster0-shard-0:PRIMARY> db.users.find({"address.street":"First Street"})
+{ "_id" : ObjectId("5d32b3dbe2352166eb076f8f"), "name" : "Susanna", "age" : 30, "address" : { "street" : "First Street", "city" : "New Orleans" } }
+MongoDB Enterprise Cluster0-shard-0:PRIMARY> db.users.update({name: 'Max', {$set:{age:30}}})
+2019-07-20T00:28:22.268-0600 E QUERY    [js] SyntaxError: invalid property id @(shell):1:30
+MongoDB Enterprise Cluster0-shard-0:PRIMARY> db.users.find
+function (query, fields, limit, skip, batchSize, options) {
+    var cursor = new DBQuery(this._mongo,
+                             this._db,
+                             this,
+                             this._fullName,
+                             this._massageObject(query),
+                             fields,
+                             limit,
+                             skip,
+                             batchSize,
+                             options || this.getQueryOptions());
+
+    {
+        const session = this.getDB().getSession();
+
+        const readPreference = session._serverSession.client.getReadPreference(session);
+        if (readPreference !== null) {
+            cursor.readPref(readPreference.mode, readPreference.tags);
+        }
+
+        const readConcern = session._serverSession.client.getReadConcern(session);
+        if (readConcern !== null) {
+            cursor.readConcern(readConcern.level);
+        }
+    }
+
+    return cursor;
+}
+MongoDB Enterprise Cluster0-shard-0:PRIMARY> db.users.find()
+{ "_id" : ObjectId("5d32b289e2352166eb076f8b"), "name" : "Max", "age" : 29 }
+{ "_id" : ObjectId("5d32b2f4e2352166eb076f8c"), "name" : "Manuel" }
+{ "_id" : ObjectId("5d32b2f4e2352166eb076f8d"), "name" : "Chris", "age" : 25 }
+{ "_id" : ObjectId("5d32b336e2352166eb076f8e"), "name" : "Lisa", "age" : 26 }
+{ "_id" : ObjectId("5d32b3dbe2352166eb076f8f"), "name" : "Susanna", "age" : 30, "address" : { "street" : "First Street", "city" : "New Orleans" } }
+MongoDB Enterprise Cluster0-shard-0:PRIMARY> db.users.update({name: 'Max', {$set:{age:30}}})
+2019-07-20T00:29:43.570-0600 E QUERY    [js] SyntaxError: invalid property id @(shell):1:30
+MongoDB Enterprise Cluster0-shard-0:PRIMARY> db.users.update({name: 'Max'}, {$set:{age:30}})
+WriteResult({ "nMatched" : 1, "nUpserted" : 0, "nModified" : 1 })
+MongoDB Enterprise Cluster0-shard-0:PRIMARY> db.users.find()
+{ "_id" : ObjectId("5d32b289e2352166eb076f8b"), "name" : "Max", "age" : 30 }
+{ "_id" : ObjectId("5d32b2f4e2352166eb076f8c"), "name" : "Manuel" }
+{ "_id" : ObjectId("5d32b2f4e2352166eb076f8d"), "name" : "Chris", "age" : 25 }
+{ "_id" : ObjectId("5d32b336e2352166eb076f8e"), "name" : "Lisa", "age" : 26 }
+{ "_id" : ObjectId("5d32b3dbe2352166eb076f8f"), "name" : "Susanna", "age" : 30, "address" : { "street" : "First Street", "city" : "New Orleans" } }
+MongoDB Enterprise Cluster0-shard-0:PRIMARY> db.users.update({name: 'Max'}, {age:30})
+WriteResult({ "nMatched" : 1, "nUpserted" : 0, "nModified" : 1 })
+MongoDB Enterprise Cluster0-shard-0:PRIMARY> db.users.find()
+{ "_id" : ObjectId("5d32b289e2352166eb076f8b"), "age" : 30 }
+{ "_id" : ObjectId("5d32b2f4e2352166eb076f8c"), "name" : "Manuel" }
+{ "_id" : ObjectId("5d32b2f4e2352166eb076f8d"), "name" : "Chris", "age" : 25 }
+{ "_id" : ObjectId("5d32b336e2352166eb076f8e"), "name" : "Lisa", "age" : 26 }
+{ "_id" : ObjectId("5d32b3dbe2352166eb076f8f"), "name" : "Susanna", "age" : 30, "address" : { "street" : "First Street", "city" : "New Orleans" } }
+MongoDB Enterprise Cluster0-shard-0:PRIMARY> db.users.delete({name; 'Chris'})
+2019-07-20T00:31:24.748-0600 E QUERY    [js] SyntaxError: missing : after property id @(shell):1:21
+MongoDB Enterprise Cluster0-shard-0:PRIMARY> db.users.deleteOne(({name; 'Chris'})
+... )
+2019-07-20T00:31:39.927-0600 E QUERY    [js] SyntaxError: missing : after property id @(shell):1:25
+MongoDB Enterprise Cluster0-shard-0:PRIMARY> db.users.deleteOne({name; 'Chris'}) 
+2019-07-20T00:31:44.879-0600 E QUERY    [js] SyntaxError: missing : after property id @(shell):1:24
+MongoDB Enterprise Cluster0-shard-0:PRIMARY> db.users.deleteOne({name: 'Chris'})
+
+{ "acknowledged" : true, "deletedCount" : 1 }
+MongoDB Enterprise Cluster0-shard-0:PRIMARY> 2019-07-20T00:43:30.823-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Detected bad connection created at 1563603291444439 microSec, clearing pool for cluster0-shard-00-00-teuhy.mongodb.net:27017 of 0 connections
+2019-07-20T00:43:30.824-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Dropping all pooled connections to cluster0-shard-00-00-teuhy.mongodb.net:27017(with timeout of 5 seconds)
+2019-07-20T00:43:30.824-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Ending connection to host cluster0-shard-00-00-teuhy.mongodb.net:27017(with timeout of 5 seconds) due to bad connection status; 0 connections to that host remain open
+2019-07-20T00:43:30.835-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Marking host cluster0-shard-00-00-teuhy.mongodb.net:27017 as failed :: caused by :: HostUnreachable: network error while attempting to run command 'ismaster' on host 'cluster0-shard-00-00-teuhy.mongodb.net:27017' 
+2019-07-20T00:43:30.936-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Detected bad connection created at 1563603292485184 microSec, clearing pool for cluster0-shard-00-01-teuhy.mongodb.net:27017 of 0 connections
+2019-07-20T00:43:30.983-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Dropping all pooled connections to cluster0-shard-00-01-teuhy.mongodb.net:27017(with timeout of 5 seconds)
+2019-07-20T00:43:30.983-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Ending connection to host cluster0-shard-00-01-teuhy.mongodb.net:27017(with timeout of 5 seconds) due to bad connection status; 0 connections to that host remain open
+2019-07-20T00:43:30.985-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Marking host cluster0-shard-00-01-teuhy.mongodb.net:27017 as failed :: caused by :: HostUnreachable: network error while attempting to run command 'ismaster' on host 'cluster0-shard-00-01-teuhy.mongodb.net:27017' 
+2019-07-20T00:43:31.083-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Detected bad connection created at 1563603291960449 microSec, clearing pool for cluster0-shard-00-02-teuhy.mongodb.net:27017 of 0 connections
+2019-07-20T00:43:31.083-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Dropping all pooled connections to cluster0-shard-00-02-teuhy.mongodb.net:27017(with timeout of 5 seconds)
+2019-07-20T00:43:31.083-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Ending connection to host cluster0-shard-00-02-teuhy.mongodb.net:27017(with timeout of 5 seconds) due to bad connection status; 0 connections to that host remain open
+2019-07-20T00:43:31.084-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Marking host cluster0-shard-00-02-teuhy.mongodb.net:27017 as failed :: caused by :: HostUnreachable: network error while attempting to run command 'ismaster' on host 'cluster0-shard-00-02-teuhy.mongodb.net:27017' 
+2019-07-20T00:43:31.084-0600 W NETWORK  [ReplicaSetMonitor-TaskExecutor] Unable to reach primary for set Cluster0-shard-0
+2019-07-20T00:43:31.092-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Cannot reach any nodes for set Cluster0-shard-0. Please check network connectivity and the status of the set. This has happened for 1 checks in a row.
+2019-07-20T00:44:01.951-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Successfully connected to cluster0-shard-00-00-teuhy.mongodb.net:27017 (1 connections now open to cluster0-shard-00-00-teuhy.mongodb.net:27017 with a 5 second timeout)
+2019-07-20T01:07:45.656-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Successfully connected to cluster0-shard-00-01-teuhy.mongodb.net:27017 (1 connections now open to cluster0-shard-00-01-teuhy.mongodb.net:27017 with a 5 second timeout)
+2019-07-20T01:07:46.280-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Successfully connected to cluster0-shard-00-02-teuhy.mongodb.net:27017 (1 connections now open to cluster0-shard-00-02-teuhy.mongodb.net:27017 with a 5 second timeout)
+2019-07-20T01:08:16.493-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Detected bad connection created at 1563605041759234 microSec, clearing pool for cluster0-shard-00-00-teuhy.mongodb.net:27017 of 0 connections
+2019-07-20T01:08:16.493-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Dropping all pooled connections to cluster0-shard-00-00-teuhy.mongodb.net:27017(with timeout of 5 seconds)
+2019-07-20T01:08:16.493-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Ending connection to host cluster0-shard-00-00-teuhy.mongodb.net:27017(with timeout of 5 seconds) due to bad connection status; 0 connections to that host remain open
+2019-07-20T01:08:16.493-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Marking host cluster0-shard-00-00-teuhy.mongodb.net:27017 as failed :: caused by :: HostUnreachable: network error while attempting to run command 'ismaster' on host 'cluster0-shard-00-00-teuhy.mongodb.net:27017' 
+2019-07-20T01:08:16.699-0600 W NETWORK  [ReplicaSetMonitor-TaskExecutor] Unable to reach primary for set Cluster0-shard-0
+2019-07-20T01:08:47.497-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Successfully connected to cluster0-shard-00-00-teuhy.mongodb.net:27017 (1 connections now open to cluster0-shard-00-00-teuhy.mongodb.net:27017 with a 5 second timeout)
+2019-07-20T12:57:16.979-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Detected bad connection created at 1563606527339186 microSec, clearing pool for cluster0-shard-00-00-teuhy.mongodb.net:27017 of 0 connections
+2019-07-20T12:57:16.982-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Dropping all pooled connections to cluster0-shard-00-00-teuhy.mongodb.net:27017(with timeout of 5 seconds)
+2019-07-20T12:57:16.982-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Ending connection to host cluster0-shard-00-00-teuhy.mongodb.net:27017(with timeout of 5 seconds) due to bad connection status; 0 connections to that host remain open
+2019-07-20T12:57:16.996-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Marking host cluster0-shard-00-00-teuhy.mongodb.net:27017 as failed :: caused by :: HostUnreachable: network error while attempting to run command 'ismaster' on host 'cluster0-shard-00-00-teuhy.mongodb.net:27017' 
+2019-07-20T12:57:17.202-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Detected bad connection created at 1563606466182414 microSec, clearing pool for cluster0-shard-00-02-teuhy.mongodb.net:27017 of 0 connections
+2019-07-20T12:57:17.202-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Dropping all pooled connections to cluster0-shard-00-02-teuhy.mongodb.net:27017(with timeout of 5 seconds)
+2019-07-20T12:57:17.202-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Ending connection to host cluster0-shard-00-02-teuhy.mongodb.net:27017(with timeout of 5 seconds) due to bad connection status; 0 connections to that host remain open
+2019-07-20T12:57:17.205-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Marking host cluster0-shard-00-02-teuhy.mongodb.net:27017 as failed :: caused by :: HostUnreachable: network error while attempting to run command 'ismaster' on host 'cluster0-shard-00-02-teuhy.mongodb.net:27017' 
+2019-07-20T12:57:17.316-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Detected bad connection created at 1563606465560732 microSec, clearing pool for cluster0-shard-00-01-teuhy.mongodb.net:27017 of 0 connections
+2019-07-20T12:57:17.316-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Dropping all pooled connections to cluster0-shard-00-01-teuhy.mongodb.net:27017(with timeout of 5 seconds)
+2019-07-20T12:57:17.316-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Ending connection to host cluster0-shard-00-01-teuhy.mongodb.net:27017(with timeout of 5 seconds) due to bad connection status; 0 connections to that host remain open
+2019-07-20T12:57:17.328-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Marking host cluster0-shard-00-01-teuhy.mongodb.net:27017 as failed :: caused by :: HostUnreachable: network error while attempting to run command 'ismaster' on host 'cluster0-shard-00-01-teuhy.mongodb.net:27017' 
+2019-07-20T12:57:17.328-0600 W NETWORK  [ReplicaSetMonitor-TaskExecutor] Unable to reach primary for set Cluster0-shard-0
+2019-07-20T12:57:17.328-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Cannot reach any nodes for set Cluster0-shard-0. Please check network connectivity and the status of the set. This has happened for 1 checks in a row.
+2019-07-20T13:03:31.211-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Successfully connected to cluster0-shard-00-00-teuhy.mongodb.net:27017 (1 connections now open to cluster0-shard-00-00-teuhy.mongodb.net:27017 with a 5 second timeout)
+2019-07-20T13:03:32.142-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Successfully connected to cluster0-shard-00-02-teuhy.mongodb.net:27017 (1 connections now open to cluster0-shard-00-02-teuhy.mongodb.net:27017 with a 5 second timeout)
+2019-07-20T13:03:32.999-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Successfully connected to cluster0-shard-00-01-teuhy.mongodb.net:27017 (1 connections now open to cluster0-shard-00-01-teuhy.mongodb.net:27017 with a 5 second timeout)
+2019-07-20T13:53:48.494-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Detected bad connection created at 1563649411109459 microSec, clearing pool for cluster0-shard-00-00-teuhy.mongodb.net:27017 of 0 connections
+2019-07-20T13:53:48.495-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Dropping all pooled connections to cluster0-shard-00-00-teuhy.mongodb.net:27017(with timeout of 5 seconds)
+2019-07-20T13:53:48.495-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Ending connection to host cluster0-shard-00-00-teuhy.mongodb.net:27017(with timeout of 5 seconds) due to bad connection status; 0 connections to that host remain open
+2019-07-20T13:53:48.496-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Marking host cluster0-shard-00-00-teuhy.mongodb.net:27017 as failed :: caused by :: HostUnreachable: network error while attempting to run command 'ismaster' on host 'cluster0-shard-00-00-teuhy.mongodb.net:27017' 
+2019-07-20T13:53:48.710-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Detected bad connection created at 1563649412902240 microSec, clearing pool for cluster0-shard-00-01-teuhy.mongodb.net:27017 of 0 connections
+2019-07-20T13:53:48.710-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Dropping all pooled connections to cluster0-shard-00-01-teuhy.mongodb.net:27017(with timeout of 5 seconds)
+2019-07-20T13:53:48.710-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Ending connection to host cluster0-shard-00-01-teuhy.mongodb.net:27017(with timeout of 5 seconds) due to bad connection status; 0 connections to that host remain open
+2019-07-20T13:53:48.711-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Marking host cluster0-shard-00-01-teuhy.mongodb.net:27017 as failed :: caused by :: HostUnreachable: network error while attempting to run command 'ismaster' on host 'cluster0-shard-00-01-teuhy.mongodb.net:27017' 
+2019-07-20T13:53:48.824-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Detected bad connection created at 1563649411958012 microSec, clearing pool for cluster0-shard-00-02-teuhy.mongodb.net:27017 of 0 connections
+2019-07-20T13:53:48.824-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Dropping all pooled connections to cluster0-shard-00-02-teuhy.mongodb.net:27017(with timeout of 5 seconds)
+2019-07-20T13:53:48.824-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Ending connection to host cluster0-shard-00-02-teuhy.mongodb.net:27017(with timeout of 5 seconds) due to bad connection status; 0 connections to that host remain open
+2019-07-20T13:53:48.825-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Marking host cluster0-shard-00-02-teuhy.mongodb.net:27017 as failed :: caused by :: HostUnreachable: network error while attempting to run command 'ismaster' on host 'cluster0-shard-00-02-teuhy.mongodb.net:27017' 
+2019-07-20T13:53:48.825-0600 W NETWORK  [ReplicaSetMonitor-TaskExecutor] Unable to reach primary for set Cluster0-shard-0
+2019-07-20T13:53:48.825-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Cannot reach any nodes for set Cluster0-shard-0. Please check network connectivity and the status of the set. This has happened for 1 checks in a row.
+2019-07-20T14:54:19.673-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Successfully connected to cluster0-shard-00-00-teuhy.mongodb.net:27017 (1 connections now open to cluster0-shard-00-00-teuhy.mongodb.net:27017 with a 5 second timeout)
+2019-07-20T14:54:20.371-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Successfully connected to cluster0-shard-00-02-teuhy.mongodb.net:27017 (1 connections now open to cluster0-shard-00-02-teuhy.mongodb.net:27017 with a 5 second timeout)
+2019-07-20T14:54:21.108-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Successfully connected to cluster0-shard-00-01-teuhy.mongodb.net:27017 (1 connections now open to cluster0-shard-00-01-teuhy.mongodb.net:27017 with a 5 second timeout)
+2019-07-20T16:45:34.575-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Detected bad connection created at 1563656059573963 microSec, clearing pool for cluster0-shard-00-00-teuhy.mongodb.net:27017 of 0 connections
+2019-07-20T16:45:34.575-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Dropping all pooled connections to cluster0-shard-00-00-teuhy.mongodb.net:27017(with timeout of 5 seconds)
+2019-07-20T16:45:34.575-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Ending connection to host cluster0-shard-00-00-teuhy.mongodb.net:27017(with timeout of 5 seconds) due to bad connection status; 0 connections to that host remain open
+2019-07-20T16:45:34.575-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Marking host cluster0-shard-00-00-teuhy.mongodb.net:27017 as failed :: caused by :: HostUnreachable: network error while attempting to run command 'ismaster' on host 'cluster0-shard-00-00-teuhy.mongodb.net:27017' 
+2019-07-20T16:45:34.719-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Detected bad connection created at 1563656060998890 microSec, clearing pool for cluster0-shard-00-01-teuhy.mongodb.net:27017 of 0 connections
+2019-07-20T16:45:34.719-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Dropping all pooled connections to cluster0-shard-00-01-teuhy.mongodb.net:27017(with timeout of 5 seconds)
+2019-07-20T16:45:34.719-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Ending connection to host cluster0-shard-00-01-teuhy.mongodb.net:27017(with timeout of 5 seconds) due to bad connection status; 0 connections to that host remain open
+2019-07-20T16:45:34.719-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Marking host cluster0-shard-00-01-teuhy.mongodb.net:27017 as failed :: caused by :: HostUnreachable: network error while attempting to run command 'ismaster' on host 'cluster0-shard-00-01-teuhy.mongodb.net:27017' 
+2019-07-20T16:45:34.946-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Detected bad connection created at 1563656060276449 microSec, clearing pool for cluster0-shard-00-02-teuhy.mongodb.net:27017 of 0 connections
+2019-07-20T16:45:34.946-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Dropping all pooled connections to cluster0-shard-00-02-teuhy.mongodb.net:27017(with timeout of 5 seconds)
+2019-07-20T16:45:34.946-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Ending connection to host cluster0-shard-00-02-teuhy.mongodb.net:27017(with timeout of 5 seconds) due to bad connection status; 0 connections to that host remain open
+2019-07-20T16:45:34.946-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Marking host cluster0-shard-00-02-teuhy.mongodb.net:27017 as failed :: caused by :: HostUnreachable: network error while attempting to run command 'ismaster' on host 'cluster0-shard-00-02-teuhy.mongodb.net:27017' 
+2019-07-20T16:45:34.946-0600 W NETWORK  [ReplicaSetMonitor-TaskExecutor] Unable to reach primary for set Cluster0-shard-0
+2019-07-20T16:45:34.947-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Cannot reach any nodes for set Cluster0-shard-0. Please check network connectivity and the status of the set. This has happened for 1 checks in a row.
+2019-07-20T18:24:39.327-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Successfully connected to cluster0-shard-00-00-teuhy.mongodb.net:27017 (1 connections now open to cluster0-shard-00-00-teuhy.mongodb.net:27017 with a 5 second timeout)
+2019-07-20T18:24:40.735-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Successfully connected to cluster0-shard-00-02-teuhy.mongodb.net:27017 (1 connections now open to cluster0-shard-00-02-teuhy.mongodb.net:27017 with a 5 second timeout)
+2019-07-20T18:24:49.912-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Successfully connected to cluster0-shard-00-01-teuhy.mongodb.net:27017 (1 connections now open to cluster0-shard-00-01-teuhy.mongodb.net:27017 with a 5 second timeout)
+2019-07-20T19:03:21.517-0600 E NETWORK  [ReplicaSetMonitor-TaskExecutor] Error shutting down socket: Can't assign requested address
+2019-07-20T19:03:21.520-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Detected bad connection created at 1563668679131283 microSec, clearing pool for cluster0-shard-00-00-teuhy.mongodb.net:27017 of 0 connections
+2019-07-20T19:03:21.520-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Dropping all pooled connections to cluster0-shard-00-00-teuhy.mongodb.net:27017(with timeout of 5 seconds)
+2019-07-20T19:03:21.520-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Ending connection to host cluster0-shard-00-00-teuhy.mongodb.net:27017(with timeout of 5 seconds) due to bad connection status; 0 connections to that host remain open
+2019-07-20T19:03:21.522-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Marking host cluster0-shard-00-00-teuhy.mongodb.net:27017 as failed :: caused by :: HostUnreachable: network error while attempting to run command 'ismaster' on host 'cluster0-shard-00-00-teuhy.mongodb.net:27017' 
+2019-07-20T19:03:26.524-0600 E NETWORK  [ReplicaSetMonitor-TaskExecutor] Error shutting down socket: Can't assign requested address
+2019-07-20T19:03:26.524-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Detected bad connection created at 1563668680438670 microSec, clearing pool for cluster0-shard-00-02-teuhy.mongodb.net:27017 of 0 connections
+2019-07-20T19:03:26.524-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Dropping all pooled connections to cluster0-shard-00-02-teuhy.mongodb.net:27017(with timeout of 5 seconds)
+2019-07-20T19:03:26.524-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Ending connection to host cluster0-shard-00-02-teuhy.mongodb.net:27017(with timeout of 5 seconds) due to bad connection status; 0 connections to that host remain open
+2019-07-20T19:03:26.525-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Marking host cluster0-shard-00-02-teuhy.mongodb.net:27017 as failed :: caused by :: HostUnreachable: network error while attempting to run command 'ismaster' on host 'cluster0-shard-00-02-teuhy.mongodb.net:27017' 
+2019-07-20T19:03:31.525-0600 E NETWORK  [ReplicaSetMonitor-TaskExecutor] Error shutting down socket: Can't assign requested address
+2019-07-20T19:03:31.525-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Detected bad connection created at 1563668689668373 microSec, clearing pool for cluster0-shard-00-01-teuhy.mongodb.net:27017 of 0 connections
+2019-07-20T19:03:31.525-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Dropping all pooled connections to cluster0-shard-00-01-teuhy.mongodb.net:27017(with timeout of 5 seconds)
+2019-07-20T19:03:31.525-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Ending connection to host cluster0-shard-00-01-teuhy.mongodb.net:27017(with timeout of 5 seconds) due to bad connection status; 0 connections to that host remain open
+2019-07-20T19:03:31.526-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Marking host cluster0-shard-00-01-teuhy.mongodb.net:27017 as failed :: caused by :: HostUnreachable: network error while attempting to run command 'ismaster' on host 'cluster0-shard-00-01-teuhy.mongodb.net:27017' 
+2019-07-20T19:03:31.526-0600 W NETWORK  [ReplicaSetMonitor-TaskExecutor] Unable to reach primary for set Cluster0-shard-0
+2019-07-20T19:03:31.526-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Cannot reach any nodes for set Cluster0-shard-0. Please check network connectivity and the status of the set. This has happened for 1 checks in a row.
+2019-07-20T19:18:52.042-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Successfully connected to cluster0-shard-00-00-teuhy.mongodb.net:27017 (1 connections now open to cluster0-shard-00-00-teuhy.mongodb.net:27017 with a 5 second timeout)
+2019-07-20T19:18:54.656-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Successfully connected to cluster0-shard-00-01-teuhy.mongodb.net:27017 (1 connections now open to cluster0-shard-00-01-teuhy.mongodb.net:27017 with a 5 second timeout)
+2019-07-20T19:18:56.282-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Successfully connected to cluster0-shard-00-02-teuhy.mongodb.net:27017 (1 connections now open to cluster0-shard-00-02-teuhy.mongodb.net:27017 with a 5 second timeout)
+2019-07-20T22:31:40.723-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Detected bad connection created at 1563671931488660 microSec, clearing pool for cluster0-shard-00-00-teuhy.mongodb.net:27017 of 0 connections
+2019-07-20T22:31:40.723-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Dropping all pooled connections to cluster0-shard-00-00-teuhy.mongodb.net:27017(with timeout of 5 seconds)
+2019-07-20T22:31:40.723-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Ending connection to host cluster0-shard-00-00-teuhy.mongodb.net:27017(with timeout of 5 seconds) due to bad connection status; 0 connections to that host remain open
+2019-07-20T22:31:40.724-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Marking host cluster0-shard-00-00-teuhy.mongodb.net:27017 as failed :: caused by :: HostUnreachable: network error while attempting to run command 'ismaster' on host 'cluster0-shard-00-00-teuhy.mongodb.net:27017' 
+2019-07-20T22:31:40.893-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Detected bad connection created at 1563671935934047 microSec, clearing pool for cluster0-shard-00-02-teuhy.mongodb.net:27017 of 0 connections
+2019-07-20T22:31:40.893-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Dropping all pooled connections to cluster0-shard-00-02-teuhy.mongodb.net:27017(with timeout of 5 seconds)
+2019-07-20T22:31:40.893-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Ending connection to host cluster0-shard-00-02-teuhy.mongodb.net:27017(with timeout of 5 seconds) due to bad connection status; 0 connections to that host remain open
+2019-07-20T22:31:40.893-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Marking host cluster0-shard-00-02-teuhy.mongodb.net:27017 as failed :: caused by :: HostUnreachable: network error while attempting to run command 'ismaster' on host 'cluster0-shard-00-02-teuhy.mongodb.net:27017' 
+2019-07-20T22:31:41.062-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Detected bad connection created at 1563671934371675 microSec, clearing pool for cluster0-shard-00-01-teuhy.mongodb.net:27017 of 0 connections
+2019-07-20T22:31:41.062-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Dropping all pooled connections to cluster0-shard-00-01-teuhy.mongodb.net:27017(with timeout of 5 seconds)
+2019-07-20T22:31:41.063-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Ending connection to host cluster0-shard-00-01-teuhy.mongodb.net:27017(with timeout of 5 seconds) due to bad connection status; 0 connections to that host remain open
+2019-07-20T22:31:41.063-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Marking host cluster0-shard-00-01-teuhy.mongodb.net:27017 as failed :: caused by :: HostUnreachable: network error while attempting to run command 'ismaster' on host 'cluster0-shard-00-01-teuhy.mongodb.net:27017' 
+2019-07-20T22:31:41.063-0600 W NETWORK  [ReplicaSetMonitor-TaskExecutor] Unable to reach primary for set Cluster0-shard-0
+2019-07-20T22:31:41.063-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Cannot reach any nodes for set Cluster0-shard-0. Please check network connectivity and the status of the set. This has happened for 1 checks in a row.
+2019-07-20T23:30:19.121-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Successfully connected to cluster0-shard-00-00-teuhy.mongodb.net:27017 (1 connections now open to cluster0-shard-00-00-teuhy.mongodb.net:27017 with a 5 second timeout)
+2019-07-21T00:20:14.105-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Successfully connected to cluster0-shard-00-01-teuhy.mongodb.net:27017 (1 connections now open to cluster0-shard-00-01-teuhy.mongodb.net:27017 with a 5 second timeout)
+2019-07-21T00:20:14.909-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Successfully connected to cluster0-shard-00-02-teuhy.mongodb.net:27017 (1 connections now open to cluster0-shard-00-02-teuhy.mongodb.net:27017 with a 5 second timeout)
+2019-07-21T00:43:09.292-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Detected bad connection created at 1563687019022460 microSec, clearing pool for cluster0-shard-00-00-teuhy.mongodb.net:27017 of 0 connections
+2019-07-21T00:43:09.292-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Dropping all pooled connections to cluster0-shard-00-00-teuhy.mongodb.net:27017(with timeout of 5 seconds)
+2019-07-21T00:43:09.292-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Ending connection to host cluster0-shard-00-00-teuhy.mongodb.net:27017(with timeout of 5 seconds) due to bad connection status; 0 connections to that host remain open
+2019-07-21T00:43:09.294-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Marking host cluster0-shard-00-00-teuhy.mongodb.net:27017 as failed :: caused by :: HostUnreachable: network error while attempting to run command 'ismaster' on host 'cluster0-shard-00-00-teuhy.mongodb.net:27017' 
+2019-07-21T00:43:09.403-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Detected bad connection created at 1563690014003334 microSec, clearing pool for cluster0-shard-00-01-teuhy.mongodb.net:27017 of 0 connections
+2019-07-21T00:43:09.403-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Dropping all pooled connections to cluster0-shard-00-01-teuhy.mongodb.net:27017(with timeout of 5 seconds)
+2019-07-21T00:43:09.403-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Ending connection to host cluster0-shard-00-01-teuhy.mongodb.net:27017(with timeout of 5 seconds) due to bad connection status; 0 connections to that host remain open
+2019-07-21T00:43:09.403-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Marking host cluster0-shard-00-01-teuhy.mongodb.net:27017 as failed :: caused by :: HostUnreachable: network error while attempting to run command 'ismaster' on host 'cluster0-shard-00-01-teuhy.mongodb.net:27017' 
+2019-07-21T00:43:09.517-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Detected bad connection created at 1563690014679194 microSec, clearing pool for cluster0-shard-00-02-teuhy.mongodb.net:27017 of 0 connections
+2019-07-21T00:43:09.517-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Dropping all pooled connections to cluster0-shard-00-02-teuhy.mongodb.net:27017(with timeout of 5 seconds)
+2019-07-21T00:43:09.517-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Ending connection to host cluster0-shard-00-02-teuhy.mongodb.net:27017(with timeout of 5 seconds) due to bad connection status; 0 connections to that host remain open
+2019-07-21T00:43:09.517-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Marking host cluster0-shard-00-02-teuhy.mongodb.net:27017 as failed :: caused by :: HostUnreachable: network error while attempting to run command 'ismaster' on host 'cluster0-shard-00-02-teuhy.mongodb.net:27017' 
+2019-07-21T00:43:09.517-0600 W NETWORK  [ReplicaSetMonitor-TaskExecutor] Unable to reach primary for set Cluster0-shard-0
+2019-07-21T00:43:09.517-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Cannot reach any nodes for set Cluster0-shard-0. Please check network connectivity and the status of the set. This has happened for 1 checks in a row.
+2019-07-21T00:43:40.966-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Successfully connected to cluster0-shard-00-00-teuhy.mongodb.net:27017 (1 connections now open to cluster0-shard-00-00-teuhy.mongodb.net:27017 with a 5 second timeout)
+2019-07-21T00:43:41.591-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Successfully connected to cluster0-shard-00-02-teuhy.mongodb.net:27017 (1 connections now open to cluster0-shard-00-02-teuhy.mongodb.net:27017 with a 5 second timeout)
+2019-07-21T00:43:42.253-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Successfully connected to cluster0-shard-00-01-teuhy.mongodb.net:27017 (1 connections now open to cluster0-shard-00-01-teuhy.mongodb.net:27017 with a 5 second timeout)
+2019-07-21T02:40:43.807-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Detected bad connection created at 1563691420861589 microSec, clearing pool for cluster0-shard-00-00-teuhy.mongodb.net:27017 of 0 connections
+2019-07-21T02:40:43.807-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Dropping all pooled connections to cluster0-shard-00-00-teuhy.mongodb.net:27017(with timeout of 5 seconds)
+2019-07-21T02:40:43.807-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Ending connection to host cluster0-shard-00-00-teuhy.mongodb.net:27017(with timeout of 5 seconds) due to bad connection status; 0 connections to that host remain open
+2019-07-21T02:40:43.810-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Marking host cluster0-shard-00-00-teuhy.mongodb.net:27017 as failed :: caused by :: HostUnreachable: network error while attempting to run command 'ismaster' on host 'cluster0-shard-00-00-teuhy.mongodb.net:27017' 
+2019-07-21T02:40:44.006-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Detected bad connection created at 1563691422156875 microSec, clearing pool for cluster0-shard-00-01-teuhy.mongodb.net:27017 of 0 connections
+2019-07-21T02:40:44.006-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Dropping all pooled connections to cluster0-shard-00-01-teuhy.mongodb.net:27017(with timeout of 5 seconds)
+2019-07-21T02:40:44.006-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Ending connection to host cluster0-shard-00-01-teuhy.mongodb.net:27017(with timeout of 5 seconds) due to bad connection status; 0 connections to that host remain open
+2019-07-21T02:40:44.006-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Marking host cluster0-shard-00-01-teuhy.mongodb.net:27017 as failed :: caused by :: HostUnreachable: network error while attempting to run command 'ismaster' on host 'cluster0-shard-00-01-teuhy.mongodb.net:27017' 
+2019-07-21T02:40:44.237-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Detected bad connection created at 1563691421496141 microSec, clearing pool for cluster0-shard-00-02-teuhy.mongodb.net:27017 of 0 connections
+2019-07-21T02:40:44.238-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Dropping all pooled connections to cluster0-shard-00-02-teuhy.mongodb.net:27017(with timeout of 5 seconds)
+2019-07-21T02:40:44.238-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Ending connection to host cluster0-shard-00-02-teuhy.mongodb.net:27017(with timeout of 5 seconds) due to bad connection status; 0 connections to that host remain open
+2019-07-21T02:40:44.238-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Marking host cluster0-shard-00-02-teuhy.mongodb.net:27017 as failed :: caused by :: HostUnreachable: network error while attempting to run command 'ismaster' on host 'cluster0-shard-00-02-teuhy.mongodb.net:27017' 
+2019-07-21T02:40:44.238-0600 W NETWORK  [ReplicaSetMonitor-TaskExecutor] Unable to reach primary for set Cluster0-shard-0
+2019-07-21T02:40:44.238-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Cannot reach any nodes for set Cluster0-shard-0. Please check network connectivity and the status of the set. This has happened for 1 checks in a row.
+2019-07-21T04:15:01.698-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Successfully connected to cluster0-shard-00-00-teuhy.mongodb.net:27017 (1 connections now open to cluster0-shard-00-00-teuhy.mongodb.net:27017 with a 5 second timeout)
+2019-07-21T04:15:02.423-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Successfully connected to cluster0-shard-00-01-teuhy.mongodb.net:27017 (1 connections now open to cluster0-shard-00-01-teuhy.mongodb.net:27017 with a 5 second timeout)
+2019-07-21T05:08:58.418-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Successfully connected to cluster0-shard-00-02-teuhy.mongodb.net:27017 (1 connections now open to cluster0-shard-00-02-teuhy.mongodb.net:27017 with a 5 second timeout)
+2019-07-21T05:08:58.576-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Detected bad connection created at 1563704103147655 microSec, clearing pool for cluster0-shard-00-02-teuhy.mongodb.net:27017 of 0 connections
+2019-07-21T05:08:58.576-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Dropping all pooled connections to cluster0-shard-00-02-teuhy.mongodb.net:27017(with timeout of 5 seconds)
+2019-07-21T05:08:58.576-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Ending connection to host cluster0-shard-00-02-teuhy.mongodb.net:27017(with timeout of 5 seconds) due to bad connection status; 0 connections to that host remain open
+2019-07-21T06:03:11.942-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Detected bad connection created at 1563704101518250 microSec, clearing pool for cluster0-shard-00-00-teuhy.mongodb.net:27017 of 0 connections
+2019-07-21T06:03:11.945-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Dropping all pooled connections to cluster0-shard-00-00-teuhy.mongodb.net:27017(with timeout of 5 seconds)
+2019-07-21T06:03:11.945-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Ending connection to host cluster0-shard-00-00-teuhy.mongodb.net:27017(with timeout of 5 seconds) due to bad connection status; 0 connections to that host remain open
+2019-07-21T06:03:11.961-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Marking host cluster0-shard-00-00-teuhy.mongodb.net:27017 as failed :: caused by :: HostUnreachable: network error while attempting to run command 'ismaster' on host 'cluster0-shard-00-00-teuhy.mongodb.net:27017' 
+2019-07-21T06:03:12.065-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Detected bad connection created at 1563704102324912 microSec, clearing pool for cluster0-shard-00-01-teuhy.mongodb.net:27017 of 0 connections
+2019-07-21T06:03:12.065-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Dropping all pooled connections to cluster0-shard-00-01-teuhy.mongodb.net:27017(with timeout of 5 seconds)
+2019-07-21T06:03:12.066-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Ending connection to host cluster0-shard-00-01-teuhy.mongodb.net:27017(with timeout of 5 seconds) due to bad connection status; 0 connections to that host remain open
+2019-07-21T06:03:12.069-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Marking host cluster0-shard-00-01-teuhy.mongodb.net:27017 as failed :: caused by :: HostUnreachable: network error while attempting to run command 'ismaster' on host 'cluster0-shard-00-01-teuhy.mongodb.net:27017' 
+2019-07-21T06:03:12.888-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Successfully connected to cluster0-shard-00-02-teuhy.mongodb.net:27017 (1 connections now open to cluster0-shard-00-02-teuhy.mongodb.net:27017 with a 5 second timeout)
+2019-07-21T06:03:12.991-0600 W NETWORK  [ReplicaSetMonitor-TaskExecutor] Unable to reach primary for set Cluster0-shard-0
+2019-07-21T07:51:15.693-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Successfully connected to cluster0-shard-00-00-teuhy.mongodb.net:27017 (1 connections now open to cluster0-shard-00-00-teuhy.mongodb.net:27017 with a 5 second timeout)
+2019-07-21T07:51:15.965-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Detected bad connection created at 1563710592782060 microSec, clearing pool for cluster0-shard-00-02-teuhy.mongodb.net:27017 of 0 connections
+2019-07-21T07:51:15.965-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Dropping all pooled connections to cluster0-shard-00-02-teuhy.mongodb.net:27017(with timeout of 5 seconds)
+2019-07-21T07:51:15.965-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Ending connection to host cluster0-shard-00-02-teuhy.mongodb.net:27017(with timeout of 5 seconds) due to bad connection status; 0 connections to that host remain open
+2019-07-21T07:51:15.965-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Marking host cluster0-shard-00-02-teuhy.mongodb.net:27017 as failed :: caused by :: HostUnreachable: network error while attempting to run command 'ismaster' on host 'cluster0-shard-00-02-teuhy.mongodb.net:27017' 
+2019-07-21T07:51:16.771-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Successfully connected to cluster0-shard-00-01-teuhy.mongodb.net:27017 (1 connections now open to cluster0-shard-00-01-teuhy.mongodb.net:27017 with a 5 second timeout)
+2019-07-21T09:39:23.551-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Detected bad connection created at 1563717075540470 microSec, clearing pool for cluster0-shard-00-00-teuhy.mongodb.net:27017 of 0 connections
+2019-07-21T09:39:23.570-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Dropping all pooled connections to cluster0-shard-00-00-teuhy.mongodb.net:27017(with timeout of 5 seconds)
+2019-07-21T09:39:23.570-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Ending connection to host cluster0-shard-00-00-teuhy.mongodb.net:27017(with timeout of 5 seconds) due to bad connection status; 0 connections to that host remain open
+2019-07-21T09:39:23.579-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Marking host cluster0-shard-00-00-teuhy.mongodb.net:27017 as failed :: caused by :: HostUnreachable: network error while attempting to run command 'ismaster' on host 'cluster0-shard-00-00-teuhy.mongodb.net:27017' 
+2019-07-21T09:39:23.677-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Detected bad connection created at 1563717076609906 microSec, clearing pool for cluster0-shard-00-01-teuhy.mongodb.net:27017 of 0 connections
+2019-07-21T09:39:23.677-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Dropping all pooled connections to cluster0-shard-00-01-teuhy.mongodb.net:27017(with timeout of 5 seconds)
+2019-07-21T09:39:23.677-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Ending connection to host cluster0-shard-00-01-teuhy.mongodb.net:27017(with timeout of 5 seconds) due to bad connection status; 0 connections to that host remain open
+2019-07-21T09:39:23.678-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Marking host cluster0-shard-00-01-teuhy.mongodb.net:27017 as failed :: caused by :: HostUnreachable: network error while attempting to run command 'ismaster' on host 'cluster0-shard-00-01-teuhy.mongodb.net:27017' 
+2019-07-21T09:39:24.537-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Successfully connected to cluster0-shard-00-02-teuhy.mongodb.net:27017 (1 connections now open to cluster0-shard-00-02-teuhy.mongodb.net:27017 with a 5 second timeout)
+2019-07-21T09:39:24.639-0600 W NETWORK  [ReplicaSetMonitor-TaskExecutor] Unable to reach primary for set Cluster0-shard-0
+2019-07-21T11:27:34.051-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Detected bad connection created at 1563723564435830 microSec, clearing pool for cluster0-shard-00-02-teuhy.mongodb.net:27017 of 0 connections
+2019-07-21T11:27:34.052-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Dropping all pooled connections to cluster0-shard-00-02-teuhy.mongodb.net:27017(with timeout of 5 seconds)
+2019-07-21T11:27:34.052-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Ending connection to host cluster0-shard-00-02-teuhy.mongodb.net:27017(with timeout of 5 seconds) due to bad connection status; 0 connections to that host remain open
+2019-07-21T11:27:34.052-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Marking host cluster0-shard-00-02-teuhy.mongodb.net:27017 as failed :: caused by :: HostUnreachable: network error while attempting to run command 'ismaster' on host 'cluster0-shard-00-02-teuhy.mongodb.net:27017' 
+2019-07-21T11:27:36.023-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Successfully connected to cluster0-shard-00-01-teuhy.mongodb.net:27017 (1 connections now open to cluster0-shard-00-01-teuhy.mongodb.net:27017 with a 5 second timeout)
+2019-07-21T11:27:36.146-0600 W NETWORK  [ReplicaSetMonitor-TaskExecutor] Unable to reach primary for set Cluster0-shard-0
+2019-07-21T12:21:50.091-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Successfully connected to cluster0-shard-00-00-teuhy.mongodb.net:27017 (1 connections now open to cluster0-shard-00-00-teuhy.mongodb.net:27017 with a 5 second timeout)
+2019-07-21T12:28:18.195-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Detected bad connection created at 1563730055868844 microSec, clearing pool for cluster0-shard-00-01-teuhy.mongodb.net:27017 of 0 connections
+2019-07-21T12:28:18.195-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Dropping all pooled connections to cluster0-shard-00-01-teuhy.mongodb.net:27017(with timeout of 5 seconds)
+2019-07-21T12:28:18.195-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Ending connection to host cluster0-shard-00-01-teuhy.mongodb.net:27017(with timeout of 5 seconds) due to bad connection status; 0 connections to that host remain open
+2019-07-21T12:28:18.200-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Marking host cluster0-shard-00-01-teuhy.mongodb.net:27017 as failed :: caused by :: HostUnreachable: network error while attempting to run command 'ismaster' on host 'cluster0-shard-00-01-teuhy.mongodb.net:27017' 
+2019-07-21T12:28:19.002-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Successfully connected to cluster0-shard-00-02-teuhy.mongodb.net:27017 (1 connections now open to cluster0-shard-00-02-teuhy.mongodb.net:27017 with a 5 second timeout)
+2019-07-21T12:28:50.447-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Detected bad connection created at 1563733309977213 microSec, clearing pool for cluster0-shard-00-00-teuhy.mongodb.net:27017 of 0 connections
+2019-07-21T12:28:50.447-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Dropping all pooled connections to cluster0-shard-00-00-teuhy.mongodb.net:27017(with timeout of 5 seconds)
+2019-07-21T12:28:50.447-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Ending connection to host cluster0-shard-00-00-teuhy.mongodb.net:27017(with timeout of 5 seconds) due to bad connection status; 0 connections to that host remain open
+2019-07-21T12:28:50.447-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Marking host cluster0-shard-00-00-teuhy.mongodb.net:27017 as failed :: caused by :: HostUnreachable: network error while attempting to run command 'ismaster' on host 'cluster0-shard-00-00-teuhy.mongodb.net:27017' 
+2019-07-21T12:28:51.415-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Successfully connected to cluster0-shard-00-01-teuhy.mongodb.net:27017 (1 connections now open to cluster0-shard-00-01-teuhy.mongodb.net:27017 with a 5 second timeout)
+2019-07-21T12:28:51.511-0600 W NETWORK  [ReplicaSetMonitor-TaskExecutor] Unable to reach primary for set Cluster0-shard-0
+2019-07-21T12:29:22.037-0600 I NETWORK  [ReplicaSetMonitor-TaskExecutor] Successfully connected to cluster0-shard-00-00-teuhy.mongodb.net:27017 (1 connections now open to cluster0-shard-00-00-teuhy.mongodb.net:27017 with a 5 second timeout)
+                                             ^C
+bye
+2019-07-21T12:49:28.221-0600 I QUERY    [js] Failed to end session { id: UUID("542321a6-204e-4091-9832-832792dea359") } due to HostUnreachable: network error while attempting to run command 'endSessions' on host 'cluster0-shard-00-00-teuhy.mongodb.net:27017' 
+Noahs-MacBook-Pro:database noahtaylor$ ls
+Noahs-MacBook-Pro:database noahtaylor$ cd..
+-bash: cd..: command not found
+Noahs-MacBook-Pro:database noahtaylor$ pwd
+/Users/noahtaylor/Documents/git-repos/ReactNotes/database
+Noahs-MacBook-Pro:database noahtaylor$ cd ..
+Noahs-MacBook-Pro:ReactNotes noahtaylor$ cd ..
+Noahs-MacBook-Pro:git-repos noahtaylor$ ls
+CRUD-help		ReactNotes		nodejs-template
+Fullstack-tutorial	hottakes-app
+Noahs-MacBook-Pro:git-repos noahtaylor$ cd CRUD-help/
+Noahs-MacBook-Pro:CRUD-help noahtaylor$ ls
+app.js			node_modules		package.json
+models			package-lock.json
+Noahs-MacBook-Pro:CRUD-help noahtaylor$ mongo
+MongoDB shell version v4.0.10
+connecting to: mongodb://127.0.0.1:27017/?gssapiServiceName=mongodb
+2019-07-21T12:52:07.069-0600 E QUERY    [js] Error: couldn't connect to server 127.0.0.1:27017, connection attempt failed: SocketException: Error connecting to 127.0.0.1:27017 :: caused by :: Connection refused :
+connect@src/mongo/shell/mongo.js:344:17
+@(connect):2:6
+exception: connect failed
+Noahs-MacBook-Pro:CRUD-help noahtaylor$ mongodb
+-bash: mongodb: command not found
+Noahs-MacBook-Pro:CRUD-help noahtaylor$ mongod
+-bash: mongod: command not found
+Noahs-MacBook-Pro:CRUD-help noahtaylor$ brew install mongodb
+Updating Homebrew...
+==> Auto-updated Homebrew!
+Updated 1 tap (homebrew/core).
+==> New Formulae
+bazelisk
+==> Updated Formulae
+sqlite ✔                   go@1.11                    serverless
+armadillo                  gspell                     sflowtool
+ats2-postiats              ipython                    skaffold
+avfs                       iso-codes                  sqldiff
+bazel                      kobalt                     sqlite-analyzer
+bindfs                     lego                       subnetcalc
+black                      libpq                      tag
+bundletool                 llvm@7                     terraformer
+calcurse                   lmdb                       tflint
+ccache                     mono                       tomcat-native
+cocoapods                  mpg123                     translate-toolkit
+contentful-cli             n                          triton
+convox                     netlify-cli                vapoursynth
+dbhash                     pazpar2                    vapoursynth-imwri
+diff-pdf                   pcsc-lite                  vapoursynth-ocr
+diffoscope                 pdftoipe                   vapoursynth-sub
+dnsperf                    pinboard-notes-backup      vegeta
+ecasound                   platypus                   volatility
+epubcheck                  poppler                    vttest
+eslint                     pulumi                     webtorrent-cli
+exiftool                   pyinstaller                whois
+exploitdb                  rke                        wtf
+gatsby-cli                 s6                         xonsh
+gibo                       scdoc                      yapf
+glooctl                    sdl2_image                 zabbix-cli
+gnu-apl                    sdlpop                     zstd
+==> Deleted Formulae
+libggz                     libguess                   lysp
+
+==> Installing dependencies for mongodb: sqlite and python@2
+==> Installing mongodb dependency: sqlite
+==> Downloading https://homebrew.bintray.com/bottles/sqlite-3.29.0.mojave.bottle
+==> Downloading from https://akamai.bintray.com/5f/5f2f8f36a8d13733b0374ac39bdcd
+######################################################################## 100.0%
+==> Pouring sqlite-3.29.0.mojave.bottle.tar.gz
+==> Caveats
+sqlite is keg-only, which means it was not symlinked into /usr/local,
+because macOS provides an older sqlite3.
+
+If you need to have sqlite first in your PATH run:
+  echo 'export PATH="/usr/local/opt/sqlite/bin:$PATH"' >> ~/.bash_profile
+
+For compilers to find sqlite you may need to set:
+  export LDFLAGS="-L/usr/local/opt/sqlite/lib"
+  export CPPFLAGS="-I/usr/local/opt/sqlite/include"
+
+==> Summary
+🍺  /usr/local/Cellar/sqlite/3.29.0: 11 files, 3.9MB
+==> Installing mongodb dependency: python@2
+==> Downloading https://homebrew.bintray.com/bottles/python@2-2.7.16.mojave.bott
+==> Downloading from https://akamai.bintray.com/8c/8c801a1685a9a58dc703cfa76930e
+######################################################################## 100.0%
+==> Pouring python@2-2.7.16.mojave.bottle.3.tar.gz
+==> /usr/local/Cellar/python@2/2.7.16/bin/python -s setup.py --no-user-cfg insta
+==> /usr/local/Cellar/python@2/2.7.16/bin/python -s setup.py --no-user-cfg insta
+==> /usr/local/Cellar/python@2/2.7.16/bin/python -s setup.py --no-user-cfg insta
+==> Caveats
+Pip and setuptools have been installed. To update them
+  pip install --upgrade pip setuptools
+
+You can install Python packages with
+  pip install <package>
+
+They will install into the site-package directory
+  /usr/local/lib/python2.7/site-packages
+
+See: https://docs.brew.sh/Homebrew-and-Python
+==> Summary
+🍺  /usr/local/Cellar/python@2/2.7.16: 3,705 files, 50.7MB
+==> Installing mongodb
+==> Downloading https://homebrew.bintray.com/bottles/mongodb-4.0.3_1.mojave.bott
+==> Downloading from https://akamai.bintray.com/ab/ab08fc6748bc37d0e2ec209126db3
+######################################################################## 100.0%
+==> Pouring mongodb-4.0.3_1.mojave.bottle.tar.gz
+Error: The `brew link` step did not complete successfully
+The formula built, but is not symlinked into /usr/local
+Could not symlink bin/mongo
+Target /usr/local/bin/mongo
+is a symlink belonging to mongodb-community-shell. You can unlink it:
+  brew unlink mongodb-community-shell
+
+To force the link and overwrite all conflicting files:
+  brew link --overwrite mongodb
+
+To list all files that would be deleted:
+  brew link --overwrite --dry-run mongodb
+
+Possible conflicting files are:
+/usr/local/bin/mongo -> /usr/local/Cellar/mongodb-community-shell/4.0.10/bin/mongo
+==> Caveats
+To have launchd start mongodb now and restart at login:
+  brew services start mongodb
+Or, if you don't want/need a background service you can just run:
+  mongod --config /usr/local/etc/mongod.conf
+==> Summary
+🍺  /usr/local/Cellar/mongodb/4.0.3_1: 18 files, 258.1MB
+==> Caveats
+==> sqlite
+sqlite is keg-only, which means it was not symlinked into /usr/local,
+because macOS provides an older sqlite3.
+
+If you need to have sqlite first in your PATH run:
+  echo 'export PATH="/usr/local/opt/sqlite/bin:$PATH"' >> ~/.bash_profile
+
+For compilers to find sqlite you may need to set:
+  export LDFLAGS="-L/usr/local/opt/sqlite/lib"
+  export CPPFLAGS="-I/usr/local/opt/sqlite/include"
+
+==> python@2
+Pip and setuptools have been installed. To update them
+  pip install --upgrade pip setuptools
+
+You can install Python packages with
+  pip install <package>
+
+They will install into the site-package directory
+  /usr/local/lib/python2.7/site-packages
+
+See: https://docs.brew.sh/Homebrew-and-Python
+==> mongodb
+To have launchd start mongodb now and restart at login:
+  brew services start mongodb
+Or, if you don't want/need a background service you can just run:
+  mongod --config /usr/local/etc/mongod.conf
+Noahs-MacBook-Pro:CRUD-help noahtaylor$ mongodb
+-bash: mongodb: command not found
+Noahs-MacBook-Pro:CRUD-help noahtaylor$ mongo
+MongoDB shell version v4.0.10
+connecting to: mongodb://127.0.0.1:27017/?gssapiServiceName=mongodb
+2019-07-21T12:54:57.613-0600 E QUERY    [js] Error: couldn't connect to server 127.0.0.1:27017, connection attempt failed: SocketException: Error connecting to 127.0.0.1:27017 :: caused by :: Connection refused :
+connect@src/mongo/shell/mongo.js:344:17
+@(connect):2:6
+exception: connect failed
+Noahs-MacBook-Pro:CRUD-help noahtaylor$ mongo
+MongoDB shell version v4.0.10
+connecting to: mongodb://127.0.0.1:27017/?gssapiServiceName=mongodb
+2019-07-21T12:55:20.687-0600 E QUERY    [js] Error: couldn't connect to server 127.0.0.1:27017, connection attempt failed: SocketException: Error connecting to 127.0.0.1:27017 :: caused by :: Connection refused :
+connect@src/mongo/shell/mongo.js:344:17
+@(connect):2:6
+exception: connect failed
+Noahs-MacBook-Pro:CRUD-help noahtaylor$ sudo brew install mongodb
+Password:
+Error: Running Homebrew as root is extremely dangerous and no longer supported.
+As Homebrew does not drop privileges on installation you would be giving all
+build scripts full access to your system.
+Noahs-MacBook-Pro:CRUD-help noahtaylor$ brew install mongodb
+Warning: mongodb 4.0.3_1 is already installed, it's just not linked
+You can use `brew link mongodb` to link this version.
+Noahs-MacBook-Pro:CRUD-help noahtaylor$ brew link mongodb
+Linking /usr/local/Cellar/mongodb/4.0.3_1... 
+Error: Could not symlink bin/mongo
+Target /usr/local/bin/mongo
+is a symlink belonging to mongodb-community-shell. You can unlink it:
+  brew unlink mongodb-community-shell
+
+To force the link and overwrite all conflicting files:
+  brew link --overwrite mongodb
+
+To list all files that would be deleted:
+  brew link --overwrite --dry-run mongodb
+Noahs-MacBook-Pro:CRUD-help noahtaylor$ sudo brew link mongodb
+Error: Running Homebrew as root is extremely dangerous and no longer supported.
+As Homebrew does not drop privileges on installation you would be giving all
+build scripts full access to your system.
+Noahs-MacBook-Pro:CRUD-help noahtaylor$ brew link mongodb
+Linking /usr/local/Cellar/mongodb/4.0.3_1... 
+Error: Could not symlink bin/mongo
+Target /usr/local/bin/mongo
+is a symlink belonging to mongodb-community-shell. You can unlink it:
+  brew unlink mongodb-community-shell
+
+To force the link and overwrite all conflicting files:
+  brew link --overwrite mongodb
+
+To list all files that would be deleted:
+  brew link --overwrite --dry-run mongodb
+Noahs-MacBook-Pro:CRUD-help noahtaylor$ brew link --overwrite mongodb
+Linking /usr/local/Cellar/mongodb/4.0.3_1... 13 symlinks created
+Noahs-MacBook-Pro:CRUD-help noahtaylor$ mongo
+MongoDB shell version v4.0.3
+connecting to: mongodb://127.0.0.1:27017
+2019-07-21T12:57:34.242-0600 E QUERY    [js] Error: couldn't connect to server 127.0.0.1:27017, connection attempt failed: SocketException: Error connecting to 127.0.0.1:27017 :: caused by :: Connection refused :
+connect@src/mongo/shell/mongo.js:257:13
+@(connect):1:6
+exception: connect failed
+Noahs-MacBook-Pro:CRUD-help noahtaylor$ mongod
+2019-07-21T12:57:36.566-0600 I CONTROL  [main] Automatically disabling TLS 1.0, to force-enable TLS 1.0 specify --sslDisabledProtocols 'none'
+2019-07-21T12:57:36.602-0600 I CONTROL  [initandlisten] MongoDB starting : pid=76144 port=27017 dbpath=/data/db 64-bit host=Noahs-MacBook-Pro.local
+2019-07-21T12:57:36.602-0600 I CONTROL  [initandlisten] db version v4.0.3
+2019-07-21T12:57:36.602-0600 I CONTROL  [initandlisten] git version: 7ea530946fa7880364d88c8d8b6026bbc9ffa48c
+2019-07-21T12:57:36.602-0600 I CONTROL  [initandlisten] allocator: system
+2019-07-21T12:57:36.602-0600 I CONTROL  [initandlisten] modules: none
+2019-07-21T12:57:36.602-0600 I CONTROL  [initandlisten] build environment:
+2019-07-21T12:57:36.602-0600 I CONTROL  [initandlisten]     distarch: x86_64
+2019-07-21T12:57:36.602-0600 I CONTROL  [initandlisten]     target_arch: x86_64
+2019-07-21T12:57:36.602-0600 I CONTROL  [initandlisten] options: {}
+2019-07-21T12:57:36.604-0600 I STORAGE  [initandlisten] exception in initAndListen: NonExistentPath: Data directory /data/db not found., terminating
+2019-07-21T12:57:36.604-0600 I NETWORK  [initandlisten] shutdown: going to close listening sockets...
+2019-07-21T12:57:36.604-0600 I NETWORK  [initandlisten] removing socket file: /tmp/mongodb-27017.sock
+2019-07-21T12:57:36.604-0600 I CONTROL  [initandlisten] now exiting
+2019-07-21T12:57:36.604-0600 I CONTROL  [initandlisten] shutting down with code:100
+Noahs-MacBook-Pro:CRUD-help noahtaylor$ sudo chown -R `id -un` /data/db
+chown: /data/db: No such file or directory
+Noahs-MacBook-Pro:CRUD-help noahtaylor$ mkdir -p /data/db
+mkdir: /data/db: Permission denied
+Noahs-MacBook-Pro:CRUD-help noahtaylor$ sudo mkdir -p /data/db
+Noahs-MacBook-Pro:CRUD-help noahtaylor$ ls /data/db
+Noahs-MacBook-Pro:CRUD-help noahtaylor$ sudo mkdir -p /data/db
+Noahs-MacBook-Pro:CRUD-help noahtaylor$ mongod
+2019-07-21T12:59:44.766-0600 I CONTROL  [main] Automatically disabling TLS 1.0, to force-enable TLS 1.0 specify --sslDisabledProtocols 'none'
+2019-07-21T12:59:44.806-0600 I CONTROL  [initandlisten] MongoDB starting : pid=77048 port=27017 dbpath=/data/db 64-bit host=Noahs-MacBook-Pro.local
+2019-07-21T12:59:44.806-0600 I CONTROL  [initandlisten] db version v4.0.3
+2019-07-21T12:59:44.806-0600 I CONTROL  [initandlisten] git version: 7ea530946fa7880364d88c8d8b6026bbc9ffa48c
+2019-07-21T12:59:44.806-0600 I CONTROL  [initandlisten] allocator: system
+2019-07-21T12:59:44.806-0600 I CONTROL  [initandlisten] modules: none
+2019-07-21T12:59:44.806-0600 I CONTROL  [initandlisten] build environment:
+2019-07-21T12:59:44.806-0600 I CONTROL  [initandlisten]     distarch: x86_64
+2019-07-21T12:59:44.806-0600 I CONTROL  [initandlisten]     target_arch: x86_64
+2019-07-21T12:59:44.806-0600 I CONTROL  [initandlisten] options: {}
+2019-07-21T12:59:44.811-0600 I STORAGE  [initandlisten] exception in initAndListen: IllegalOperation: Attempted to create a lock file on a read-only directory: /data/db, terminating
+2019-07-21T12:59:44.811-0600 I NETWORK  [initandlisten] shutdown: going to close listening sockets...
+2019-07-21T12:59:44.811-0600 I NETWORK  [initandlisten] removing socket file: /tmp/mongodb-27017.sock
+2019-07-21T12:59:44.811-0600 I CONTROL  [initandlisten] now exiting
+2019-07-21T12:59:44.811-0600 I CONTROL  [initandlisten] shutting down with code:100
+Noahs-MacBook-Pro:CRUD-help noahtaylor$ sudo chown -R `id -un` /data/db
+Noahs-MacBook-Pro:CRUD-help noahtaylor$ mongod
+2019-07-21T13:00:01.866-0600 I CONTROL  [main] Automatically disabling TLS 1.0, to force-enable TLS 1.0 specify --sslDisabledProtocols 'none'
+2019-07-21T13:00:01.878-0600 I CONTROL  [initandlisten] MongoDB starting : pid=77162 port=27017 dbpath=/data/db 64-bit host=Noahs-MacBook-Pro.local
+2019-07-21T13:00:01.878-0600 I CONTROL  [initandlisten] db version v4.0.3
+2019-07-21T13:00:01.878-0600 I CONTROL  [initandlisten] git version: 7ea530946fa7880364d88c8d8b6026bbc9ffa48c
+2019-07-21T13:00:01.878-0600 I CONTROL  [initandlisten] allocator: system
+2019-07-21T13:00:01.878-0600 I CONTROL  [initandlisten] modules: none
+2019-07-21T13:00:01.878-0600 I CONTROL  [initandlisten] build environment:
+2019-07-21T13:00:01.878-0600 I CONTROL  [initandlisten]     distarch: x86_64
+2019-07-21T13:00:01.878-0600 I CONTROL  [initandlisten]     target_arch: x86_64
+2019-07-21T13:00:01.878-0600 I CONTROL  [initandlisten] options: {}
+2019-07-21T13:00:01.879-0600 I STORAGE  [initandlisten] wiredtiger_open config: create,cache_size=3584M,session_max=20000,eviction=(threads_min=4,threads_max=4),config_base=false,statistics=(fast),log=(enabled=true,archive=true,path=journal,compressor=snappy),file_manager=(close_idle_time=100000),statistics_log=(wait=0),verbose=(recovery_progress),
+2019-07-21T13:00:02.380-0600 I STORAGE  [initandlisten] WiredTiger message [1563735602:380824][77162:0x116d965c0], txn-recover: Set global recovery timestamp: 0
+2019-07-21T13:00:02.405-0600 I RECOVERY [initandlisten] WiredTiger recoveryTimestamp. Ts: Timestamp(0, 0)
+2019-07-21T13:00:02.438-0600 I CONTROL  [initandlisten] 
+2019-07-21T13:00:02.438-0600 I CONTROL  [initandlisten] ** WARNING: Access control is not enabled for the database.
+2019-07-21T13:00:02.438-0600 I CONTROL  [initandlisten] **          Read and write access to data and configuration is unrestricted.
+2019-07-21T13:00:02.438-0600 I CONTROL  [initandlisten] 
+2019-07-21T13:00:02.438-0600 I CONTROL  [initandlisten] ** WARNING: This server is bound to localhost.
+2019-07-21T13:00:02.438-0600 I CONTROL  [initandlisten] **          Remote systems will be unable to connect to this server. 
+2019-07-21T13:00:02.438-0600 I CONTROL  [initandlisten] **          Start the server with --bind_ip <address> to specify which IP 
+2019-07-21T13:00:02.438-0600 I CONTROL  [initandlisten] **          addresses it should serve responses from, or with --bind_ip_all to
+2019-07-21T13:00:02.438-0600 I CONTROL  [initandlisten] **          bind to all interfaces. If this behavior is desired, start the
+2019-07-21T13:00:02.438-0600 I CONTROL  [initandlisten] **          server with --bind_ip 127.0.0.1 to disable this warning.
+2019-07-21T13:00:02.438-0600 I CONTROL  [initandlisten] 
+2019-07-21T13:00:02.448-0600 I STORAGE  [initandlisten] createCollection: admin.system.version with provided UUID: 9152cbc3-1bd4-46cf-bfab-5e0a696af104
+2019-07-21T13:00:02.481-0600 I COMMAND  [initandlisten] setting featureCompatibilityVersion to 4.0
+2019-07-21T13:00:02.495-0600 I STORAGE  [initandlisten] createCollection: local.startup_log with generated UUID: cbfa430b-fded-428f-8298-974b94ed0e36
+2019-07-21T13:00:02.524-0600 I FTDC     [initandlisten] Initializing full-time diagnostic data capture with directory '/data/db/diagnostic.data'
+2019-07-21T13:00:02.529-0600 I NETWORK  [initandlisten] waiting for connections on port 27017
+2019-07-21T13:00:02.530-0600 I STORAGE  [LogicalSessionCacheRefresh] createCollection: config.system.sessions with generated UUID: 506f8682-54ea-4aed-928f-89a5b037a96d
+2019-07-21T13:00:02.567-0600 I INDEX    [LogicalSessionCacheRefresh] build index on: config.system.sessions properties: { v: 2, key: { lastUse: 1 }, name: "lsidTTLIndex", ns: "config.system.sessions", expireAfterSeconds: 1800 }
+2019-07-21T13:00:02.567-0600 I INDEX    [LogicalSessionCacheRefresh] 	 building index using bulk method; build may temporarily use up to 500 megabytes of RAM
+2019-07-21T13:00:02.573-0600 I INDEX    [LogicalSessionCacheRefresh] build index done.  scanned 0 total records. 0 secs
+ls
+pwd
+^C2019-07-21T13:00:29.819-0600 I CONTROL  [signalProcessingThread] got signal 2 (Interrupt: 2), will terminate after current cmd ends
+2019-07-21T13:00:29.819-0600 I NETWORK  [signalProcessingThread] shutdown: going to close listening sockets...
+2019-07-21T13:00:29.819-0600 I NETWORK  [signalProcessingThread] removing socket file: /tmp/mongodb-27017.sock
+2019-07-21T13:00:29.822-0600 I CONTROL  [signalProcessingThread] Shutting down free monitoring
+2019-07-21T13:00:29.822-0600 I FTDC     [signalProcessingThread] Shutting down full-time diagnostic data capture
+2019-07-21T13:00:29.824-0600 I STORAGE  [signalProcessingThread] WiredTigerKVEngine shutting down
+2019-07-21T13:00:30.010-0600 I STORAGE  [signalProcessingThread] shutdown: removing fs lock...
+2019-07-21T13:00:30.010-0600 I CONTROL  [signalProcessingThread] now exiting
+2019-07-21T13:00:30.011-0600 I CONTROL  [signalProcessingThread] shutting down with code:0
+Noahs-MacBook-Pro:CRUD-help noahtaylor$ mongo
+MongoDB shell version v4.0.3
+connecting to: mongodb://127.0.0.1:27017
+2019-07-21T13:00:31.978-0600 E QUERY    [js] Error: couldn't connect to server 127.0.0.1:27017, connection attempt failed: SocketException: Error connecting to 127.0.0.1:27017 :: caused by :: Connection refused :
+connect@src/mongo/shell/mongo.js:257:13
+@(connect):1:6
+exception: connect failed
+Noahs-MacBook-Pro:CRUD-help noahtaylor$ brew link --overwrite mongo
+Warning: Already linked: /usr/local/Cellar/mongodb/4.0.3_1
+To relink: brew unlink mongodb && brew link mongodb
+Noahs-MacBook-Pro:CRUD-help noahtaylor$ mongo
+MongoDB shell version v4.0.3
+connecting to: mongodb://127.0.0.1:27017
+2019-07-21T13:01:05.619-0600 E QUERY    [js] Error: couldn't connect to server 127.0.0.1:27017, connection attempt failed: SocketException: Error connecting to 127.0.0.1:27017 :: caused by :: Connection refused :
+connect@src/mongo/shell/mongo.js:257:13
+@(connect):1:6
+exception: connect failed
+///
+
+
+
+Start of Mongo
+
+
+
+
+///
+Noahs-MacBook-Pro:CRUD-help noahtaylor$ mongo
+MongoDB shell version v4.0.3
+connecting to: mongodb://127.0.0.1:27017
+Implicit session: session { "id" : UUID("2d0ae6dc-0ac9-41e2-8516-40d82bd43b68") }
+MongoDB server version: 4.0.3
+Server has startup warnings: 
+2019-07-21T13:02:24.870-0600 I CONTROL  [initandlisten] 
+2019-07-21T13:02:24.870-0600 I CONTROL  [initandlisten] ** WARNING: Access control is not enabled for the database.
+2019-07-21T13:02:24.870-0600 I CONTROL  [initandlisten] **          Read and write access to data and configuration is unrestricted.
+2019-07-21T13:02:24.870-0600 I CONTROL  [initandlisten] 
+2019-07-21T13:02:24.870-0600 I CONTROL  [initandlisten] ** WARNING: This server is bound to localhost.
+2019-07-21T13:02:24.870-0600 I CONTROL  [initandlisten] **          Remote systems will be unable to connect to this server. 
+2019-07-21T13:02:24.870-0600 I CONTROL  [initandlisten] **          Start the server with --bind_ip <address> to specify which IP 
+2019-07-21T13:02:24.870-0600 I CONTROL  [initandlisten] **          addresses it should serve responses from, or with --bind_ip_all to
+2019-07-21T13:02:24.870-0600 I CONTROL  [initandlisten] **          bind to all interfaces. If this behavior is desired, start the
+2019-07-21T13:02:24.870-0600 I CONTROL  [initandlisten] **          server with --bind_ip 127.0.0.1 to disable this warning.
+2019-07-21T13:02:24.870-0600 I CONTROL  [initandlisten] 
+---
+Enable MongoDB's free cloud-based monitoring service, which will then receive and display
+metrics about your deployment (disk utilization, CPU, operation statistics, etc).
+
+The monitoring data will be available on a MongoDB website with a unique URL accessible to you
+and anyone you share the URL with. MongoDB may use this information to make product
+improvements and to suggest MongoDB products and deployment options to you.
+
+To enable free monitoring, run the following command: db.enableFreeMonitoring()
+To permanently disable this reminder, run the following command: db.disableFreeMonitoring()
+---
+
+> show dbs
+admin   0.000GB
+config  0.000GB
+local   0.000GB
+> use bookstore
+switched to db bookstore
+> show collections
+> db.createCollection('books')
+{ "ok" : 1 }
+> show collections
+books
+> db.createCollection('genres')
+{ "ok" : 1 }
+> show collections
+books
+genres
+> db.genres.insert({name:'Suspense'})
+WriteResult({ "nInserted" : 1 })
+> db.genres.find()
+{ "_id" : ObjectId("5d34b7ba0c1682e700a58c78"), "name" : "Suspense" }
+> db.genres.insert({name:'Self Help'})
+WriteResult({ "nInserted" : 1 })
+> db.genres.find()
+{ "_id" : ObjectId("5d34b7ba0c1682e700a58c78"), "name" : "Suspense" }
+{ "_id" : ObjectId("5d34b7d80c1682e700a58c79"), "name" : "Self Help" }
+> db.books.insert({title:'The Murder House', genre:'Suspense', description:'Trying to escape her troubled past and rehabilitate a career on the rocks, former New York City cop Jenna Murphy hardly expects her lush and wealthy surroundings to be a hotbed of grisly depravity. But when a Hollywood power broker and his mistress are found dead in the abandoned Murder House, the gruesome crime scene rivals anything Jenna experienced in Manhattan. And what at first seems like an open and shut case turns out to have as many shocking secrets as the Murder House itself, as Jenna quickly realizes that the mansion's history is much darker than even the town's most salacious gossips could have imagined. ', author:'James Patterson', publisher:'Little Brown and Company',pages:'480', image_url:'https://prodimage.images-bn.com/pimages/9781455589906_p0_v1_s550x406.jpg', buy_url:'https://www.barnesandnoble.com/w/the-murder-house-james-patterson/1120873479?ean=9781455589906#/'})
+2019-07-21T13:11:09.574-0600 E QUERY    [js] SyntaxError: missing } after property list @(shell):1:607
+> db.books.insert({title:'The Murder House', genre:'Suspense', description:'Trying to escape her troubled past and rehabilitate a career on the rocks, former New York City cop Jenna Murphy hardly expects her lush and wealthy surroundings to be a hotbed of grisly depravity. But when a Hollywood power broker and his mistress are found dead in the abandoned Murder House, the gruesome crime scene rivals anything Jenna experienced in Manhattan. And what at first seems like an open and shut case turns out to have as many shocking secrets as the Murder House itself, as Jenna quickly realizes that the mansion's history is much darker than even the town's most salacious gossips could have imagined. ', author:'James Patterson', publisher:'Little Brown and Company',pages:'480', image_url:'https://prodimage.images-bn.com/pimages/9781455589906_p0_v1_s550x406.jpg', buy_url:'https://www.barnesandnoble.com/w/the-murder-house-james-patterson/1120873479?ean=9781455589906#/'})
+2019-07-21T13:11:53.761-0600 E QUERY    [js] SyntaxError: missing } after property list @(shell):1:607
+> db.books.insert({title:"The Murder House", 
+... genre:"Suspense",
+... description:"Trying to escape her troubled past and rehabilitate a career on the rocks, former New York City cop Jenna Murphy hardly expects her lush and wealthy surroundings to be a hotbed of grisly depravity. But when a Hollywood power broker and his mistress are found dead in the abandoned Murder House, the gruesome crime scene rivals anything Jenna experienced in Manhattan. And what at first seems like an open and shut case turns out to have as many shocking secrets as the Murder House itself, as Jenna quickly realizes that the mansion"s history is much darker than even the town"s most salacious gossips could have imagined. ", author:"James Patterson",
+... publisher:"Little Brown and Company",
+... pages:"480",
+... image_url:"https://prodimage.images-bn.com/pimages/9781455589906_p0_v1_s550x406.jpg", 
+... buy_url:"https://www.barnesandnoble.com/w/the-murder-house-james-patterson/1120873479?ean=9781455589906#/"})
+2019-07-21T13:15:36.229-0600 E QUERY    [js] SyntaxError: missing } after property list @(shell):3:546
+> db.books.insert({title:"The Murder House", 
+... genre:"Suspense",
+... description:"Trying to escape her troubled past and rehabilitate a career on the rocks, former New York City cop Jenna Murphy hardly expects her lush and wealthy surroundings to be a hotbed of grisly depravity. But when a Hollywood power broker and his mistress are found dead in the abandoned Murder House, the gruesome crime scene rivals anything Jenna experienced in Manhattan. And what at first seems like an open and shut case turns out to have as many shocking secrets as the Murder House itself, as Jenna quickly realizes that the mansions history is much darker than even the towns most salacious gossips could have imagined.",
+... author:"James Patterson",
+... publisher:"Little Brown and Company",
+... pages:"480",
+... image_url:"https://prodimage.images-bn.com/pimages/9781455589906_p0_v1_s550x406.jpg", 
+... buy_url:"https://www.barnesandnoble.com/w/the-murder-house-james-patterson/1120873479?ean=9781455589906#/"})
+WriteResult({ "nInserted" : 1 })
+> db.books.find()
+{ "_id" : ObjectId("5d34ba090c1682e700a58c7a"), "title" : "The Murder House", "genre" : "Suspense", "description" : "Trying to escape her troubled past and rehabilitate a career on the rocks, former New York City cop Jenna Murphy hardly expects her lush and wealthy surroundings to be a hotbed of grisly depravity. But when a Hollywood power broker and his mistress are found dead in the abandoned Murder House, the gruesome crime scene rivals anything Jenna experienced in Manhattan. And what at first seems like an open and shut case turns out to have as many shocking secrets as the Murder House itself, as Jenna quickly realizes that the mansions history is much darker than even the towns most salacious gossips could have imagined.", "author" : "James Patterson", "publisher" : "Little Brown and Company", "pages" : "480", "image_url" : "https://prodimage.images-bn.com/pimages/9781455589906_p0_v1_s550x406.jpg", "buy_url" : "https://www.barnesandnoble.com/w/the-murder-house-james-patterson/1120873479?ean=9781455589906#/" }
+> db.books.insert({title:"Truth Or Die", genre:"Suspense", description: 'After a serious professional stumble, attorney Trevor Mann may have finally hit his stride. Hes found happiness with his girlfriend Claire Parker, a beautiful, ambitious journalist always on the hunt for a scoop. But when Claire's newest story leads to a violent confrontation, Trevors newly peaceful life is shattered as he tries to find out why.', publisher:"Little Brown and Company", pages:"480", image_url:"https://prodimage.images-bn.com/pimages/9781455584970_p0_v1_s550x406.jpg",  buy_url:"https://www.barnesandnoble.com/w/truth-or-die-james-patterson/1120509003?ean=9781455584970#/"})
+2019-07-21T13:21:10.094-0600 E QUERY    [js] SyntaxError: missing } after property list @(shell):1:300
+> db.books.insert({title:"Truth Or Die", genre:"Suspense", description: 'After a serious professional stumble, attorney Trevor Mann may have finally hit his stride. Hes found happiness with his girlfriend Claire Parker, a beautiful, ambitious journalist always on the hunt for a scoop. But when Claires newest story leads to a violent confrontation, Trevors newly peaceful life is shattered as he tries to find out why.', publisher:"Little Brown and Company", pages:"480", image_url:"https://prodimage.images-bn.com/pimages/9781455584970_p0_v1_s550x406.jpg",  
+
+... buy_url:"https://www.barnesandnoble.com/w/truth-or-die-james-patterson/1120509003?ean=9781455584970#/"})
+WriteResult({ "nInserted" : 1 })
+> db.books.find().pretty()
+{
+	"_id" : ObjectId("5d34ba090c1682e700a58c7a"),
+	"title" : "The Murder House",
+	"genre" : "Suspense",
+	"description" : "Trying to escape her troubled past and rehabilitate a career on the rocks, former New York City cop Jenna Murphy hardly expects her lush and wealthy surroundings to be a hotbed of grisly depravity. But when a Hollywood power broker and his mistress are found dead in the abandoned Murder House, the gruesome crime scene rivals anything Jenna experienced in Manhattan. And what at first seems like an open and shut case turns out to have as many shocking secrets as the Murder House itself, as Jenna quickly realizes that the mansions history is much darker than even the towns most salacious gossips could have imagined.",
+	"author" : "James Patterson",
+	"publisher" : "Little Brown and Company",
+	"pages" : "480",
+	"image_url" : "https://prodimage.images-bn.com/pimages/9781455589906_p0_v1_s550x406.jpg",
+	"buy_url" : "https://www.barnesandnoble.com/w/the-murder-house-james-patterson/1120873479?ean=9781455589906#/"
+}
+{
+	"_id" : ObjectId("5d34bb5b0c1682e700a58c7b"),
+	"title" : "Truth Or Die",
+	"genre" : "Suspense",
+	"description" : "After a serious professional stumble, attorney Trevor Mann may have finally hit his stride. Hes found happiness with his girlfriend Claire Parker, a beautiful, ambitious journalist always on the hunt for a scoop. But when Claires newest story leads to a violent confrontation, Trevors newly peaceful life is shattered as he tries to find out why.",
+	"publisher" : "Little Brown and Company",
+	"pages" : "480",
+	"image_url" : "https://prodimage.images-bn.com/pimages/9781455584970_p0_v1_s550x406.jpg",
+	"buy_url" : "https://www.barnesandnoble.com/w/truth-or-die-james-patterson/1120509003?ean=9781455584970#/"
+}
+> db.genres.find()
+{ "_id" : ObjectId("5d34b7ba0c1682e700a58c78"), "name" : "Suspense" }
+{ "_id" : ObjectId("5d34b7d80c1682e700a58c79"), "name" : "Self Help" }
+> db.genres.find()
+{ "_id" : ObjectId("5d34b7ba0c1682e700a58c78"), "name" : "Suspense" }
+{ "_id" : ObjectId("5d34b7d80c1682e700a58c79"), "name" : "Self Help" }
+> db.genres.find()
+{ "_id" : ObjectId("5d34b7ba0c1682e700a58c78"), "name" : "Suspense" }
+{ "_id" : ObjectId("5d34b7d80c1682e700a58c79"), "name" : "Self Help" }
+{ "_id" : ObjectId("5d34c6a5e65e020cd12e1794"), "create_date" : ISODate("2019-07-21T20:09:41.619Z"), "name" : "Romance", "__v" : 0 }
+> db.books.find()
+{ "_id" : ObjectId("5d34ba090c1682e700a58c7a"), "title" : "The Murder House", "genre" : "Suspense", "description" : "Trying to escape her troubled past and rehabilitate a career on the rocks, former New York City cop Jenna Murphy hardly expects her lush and wealthy surroundings to be a hotbed of grisly depravity. But when a Hollywood power broker and his mistress are found dead in the abandoned Murder House, the gruesome crime scene rivals anything Jenna experienced in Manhattan. And what at first seems like an open and shut case turns out to have as many shocking secrets as the Murder House itself, as Jenna quickly realizes that the mansions history is much darker than even the towns most salacious gossips could have imagined.", "author" : "James Patterson", "publisher" : "Little Brown and Company", "pages" : "480", "image_url" : "https://prodimage.images-bn.com/pimages/9781455589906_p0_v1_s550x406.jpg", "buy_url" : "https://www.barnesandnoble.com/w/the-murder-house-james-patterson/1120873479?ean=9781455589906#/" }
+{ "_id" : ObjectId("5d34bb5b0c1682e700a58c7b"), "title" : "Truth Or Die", "genre" : "Suspense", "description" : "After a serious professional stumble, attorney Trevor Mann may have finally hit his stride. Hes found happiness with his girlfriend Claire Parker, a beautiful, ambitious journalist always on the hunt for a scoop. But when Claires newest story leads to a violent confrontation, Trevors newly peaceful life is shattered as he tries to find out why.", "publisher" : "Little Brown and Company", "pages" : "480", "image_url" : "https://prodimage.images-bn.com/pimages/9781455584970_p0_v1_s550x406.jpg", "buy_url" : "https://www.barnesandnoble.com/w/truth-or-die-james-patterson/1120509003?ean=9781455584970#/" }
+{ "_id" : ObjectId("5d34c83e5e60c412a2882d67"), "title" : "The Notebook", "description" : "Every so often a love story so captures our hearts that it becomes more than a story-it becomes an experience to remember forever. The Notebook is such a book. It is a celebration of how passion can be ageless and timeless, a tale that moves us to laughter and tears and makes us believe in true love all over again", "genre" : "Romance", "author" : "Nicholas Sparks", "publisher" : "FooBar", "pages" : "400", "buy_url" : "https://www.barnesandnoble.com/w/notebook-nicholas-sparks/1100298896?ean=9781455582877#/", "create_date" : ISODate("2019-07-21T20:17:02.957Z"), "__v" : 0 }
+> db.books.find().pretty()
+{
+	"_id" : ObjectId("5d34ba090c1682e700a58c7a"),
+	"title" : "The Murder House",
+	"genre" : "Suspense",
+	"description" : "Trying to escape her troubled past and rehabilitate a career on the rocks, former New York City cop Jenna Murphy hardly expects her lush and wealthy surroundings to be a hotbed of grisly depravity. But when a Hollywood power broker and his mistress are found dead in the abandoned Murder House, the gruesome crime scene rivals anything Jenna experienced in Manhattan. And what at first seems like an open and shut case turns out to have as many shocking secrets as the Murder House itself, as Jenna quickly realizes that the mansions history is much darker than even the towns most salacious gossips could have imagined.",
+	"author" : "James Patterson",
+	"publisher" : "Little Brown and Company",
+	"pages" : "480",
+	"image_url" : "https://prodimage.images-bn.com/pimages/9781455589906_p0_v1_s550x406.jpg",
+	"buy_url" : "https://www.barnesandnoble.com/w/the-murder-house-james-patterson/1120873479?ean=9781455589906#/"
+}
+{
+	"_id" : ObjectId("5d34bb5b0c1682e700a58c7b"),
+	"title" : "Truth Or Die",
+	"genre" : "Suspense",
+	"description" : "After a serious professional stumble, attorney Trevor Mann may have finally hit his stride. Hes found happiness with his girlfriend Claire Parker, a beautiful, ambitious journalist always on the hunt for a scoop. But when Claires newest story leads to a violent confrontation, Trevors newly peaceful life is shattered as he tries to find out why.",
+	"publisher" : "Little Brown and Company",
+	"pages" : "480",
+	"image_url" : "https://prodimage.images-bn.com/pimages/9781455584970_p0_v1_s550x406.jpg",
+	"buy_url" : "https://www.barnesandnoble.com/w/truth-or-die-james-patterson/1120509003?ean=9781455584970#/"
+}
+{
+	"_id" : ObjectId("5d34c83e5e60c412a2882d67"),
+	"title" : "The Notebook",
+	"description" : "Every so often a love story so captures our hearts that it becomes more than a story-it becomes an experience to remember forever. The Notebook is such a book. It is a celebration of how passion can be ageless and timeless, a tale that moves us to laughter and tears and makes us believe in true love all over again",
+	"genre" : "Romance",
+	"author" : "Nicholas Sparks",
+	"publisher" : "FooBar",
+	"pages" : "400",
+	"buy_url" : "https://www.barnesandnoble.com/w/notebook-nicholas-sparks/1100298896?ean=9781455582877#/",
+	"create_date" : ISODate("2019-07-21T20:17:02.957Z"),
+	"__v" : 0
+}
+> db.books.find().pretty()
+{
+	"_id" : ObjectId("5d34ba090c1682e700a58c7a"),
+	"title" : "The Murder House",
+	"genre" : "Suspense",
+	"description" : "Trying to escape her troubled past and rehabilitate a career on the rocks, former New York City cop Jenna Murphy hardly expects her lush and wealthy surroundings to be a hotbed of grisly depravity. But when a Hollywood power broker and his mistress are found dead in the abandoned Murder House, the gruesome crime scene rivals anything Jenna experienced in Manhattan. And what at first seems like an open and shut case turns out to have as many shocking secrets as the Murder House itself, as Jenna quickly realizes that the mansions history is much darker than even the towns most salacious gossips could have imagined.",
+	"author" : "James Patterson",
+	"publisher" : "Little Brown and Company",
+	"pages" : "480",
+	"image_url" : "https://prodimage.images-bn.com/pimages/9781455589906_p0_v1_s550x406.jpg",
+	"buy_url" : "https://www.barnesandnoble.com/w/the-murder-house-james-patterson/1120873479?ean=9781455589906#/"
+}
+{
+	"_id" : ObjectId("5d34bb5b0c1682e700a58c7b"),
+	"title" : "Truth Or Die",
+	"genre" : "Suspense",
+	"description" : "After a serious professional stumble, attorney Trevor Mann may have finally hit his stride. Hes found happiness with his girlfriend Claire Parker, a beautiful, ambitious journalist always on the hunt for a scoop. But when Claires newest story leads to a violent confrontation, Trevors newly peaceful life is shattered as he tries to find out why.",
+	"publisher" : "Little Brown and Company",
+	"pages" : "480",
+	"image_url" : "https://prodimage.images-bn.com/pimages/9781455584970_p0_v1_s550x406.jpg",
+	"buy_url" : "https://www.barnesandnoble.com/w/truth-or-die-james-patterson/1120509003?ean=9781455584970#/"
+}
+{
+	"_id" : ObjectId("5d34c83e5e60c412a2882d67"),
+	"title" : "The Notebook",
+	"description" : "Every so often a love story so captures our hearts that it becomes more than a story-it becomes an experience to remember forever. The Notebook is such a book. It is a celebration of how passion can be ageless and timeless, a tale that moves us to laughter and tears and makes us believe in true love all over again",
+	"genre" : "Romance",
+	"author" : "Nicholas Sparks",
+	"publisher" : "FooBar",
+	"pages" : "400",
+	"buy_url" : "https://www.barnesandnoble.com/w/notebook-nicholas-sparks/1100298896?ean=9781455582877#/",
+	"create_date" : ISODate("2019-07-21T20:17:02.957Z"),
+	"__v" : 0
+}
+> db.genres.find().pretty()
+{ "_id" : ObjectId("5d34b7ba0c1682e700a58c78"), "name" : "Suspense" }
+{ "_id" : ObjectId("5d34b7d80c1682e700a58c79"), "name" : "Self Help" }
+{
+	"_id" : ObjectId("5d34c6a5e65e020cd12e1794"),
+	"create_date" : ISODate("2019-07-21T20:09:41.619Z"),
+	"name" : "Romance",
+	"__v" : 0
+}
+> db.genres.find().pretty()
+{ "_id" : ObjectId("5d34b7ba0c1682e700a58c78"), "name" : "Thriller" }
+{ "_id" : ObjectId("5d34b7d80c1682e700a58c79"), "name" : "Self Help" }
+{
+	"_id" : ObjectId("5d34c6a5e65e020cd12e1794"),
+	"create_date" : ISODate("2019-07-21T20:09:41.619Z"),
+	"name" : "Romance",
+	"__v" : 0
+}
+> db.genres.find().pretty()
+{ "_id" : ObjectId("5d34b7ba0c1682e700a58c78"), "name" : "Thriller" }
+{ "_id" : ObjectId("5d34b7d80c1682e700a58c79"), "name" : "Self Help" }
+{
+	"_id" : ObjectId("5d34c6a5e65e020cd12e1794"),
+	"create_date" : ISODate("2019-07-21T20:09:41.619Z"),
+	"name" : "Romance",
+	"__v" : 0
+}
+> db.books.find().pretty()
+{
+	"_id" : ObjectId("5d34ba090c1682e700a58c7a"),
+	"title" : "Murder House",
+	"genre" : null,
+	"description" : null,
+	"author" : null,
+	"publisher" : null,
+	"pages" : null,
+	"image_url" : null,
+	"buy_url" : null
+}
+{
+	"_id" : ObjectId("5d34bb5b0c1682e700a58c7b"),
+	"title" : "Truth Or Die",
+	"genre" : "Suspense",
+	"description" : "After a serious professional stumble, attorney Trevor Mann may have finally hit his stride. Hes found happiness with his girlfriend Claire Parker, a beautiful, ambitious journalist always on the hunt for a scoop. But when Claires newest story leads to a violent confrontation, Trevors newly peaceful life is shattered as he tries to find out why.",
+	"publisher" : "Little Brown and Company",
+	"pages" : "480",
+	"image_url" : "https://prodimage.images-bn.com/pimages/9781455584970_p0_v1_s550x406.jpg",
+	"buy_url" : "https://www.barnesandnoble.com/w/truth-or-die-james-patterson/1120509003?ean=9781455584970#/"
+}
+{
+	"_id" : ObjectId("5d34c83e5e60c412a2882d67"),
+	"title" : "The Notebook",
+	"description" : "Every so often a love story so captures our hearts that it becomes more than a story-it becomes an experience to remember forever. The Notebook is such a book. It is a celebration of how passion can be ageless and timeless, a tale that moves us to laughter and tears and makes us believe in true love all over again",
+	"genre" : "Romance",
+	"author" : "Nicholas Sparks",
+	"publisher" : "FooBar",
+	"pages" : "400",
+	"buy_url" : "https://www.barnesandnoble.com/w/notebook-nicholas-sparks/1100298896?ean=9781455582877#/",
+	"create_date" : ISODate("2019-07-21T20:17:02.957Z"),
+	"__v" : 0
+}
+> db.books.find().pretty()
+{
+	"_id" : ObjectId("5d34ba090c1682e700a58c7a"),
+	"title" : "Murder House",
+	"genre" : null,
+	"description" : null,
+	"author" : null,
+	"publisher" : null,
+	"pages" : null,
+	"image_url" : null,
+	"buy_url" : null
+}
+{
+	"_id" : ObjectId("5d34bb5b0c1682e700a58c7b"),
+	"title" : "Truth Or Die",
+	"genre" : "Suspense",
+	"description" : "After a serious professional stumble, attorney Trevor Mann may have finally hit his stride. Hes found happiness with his girlfriend Claire Parker, a beautiful, ambitious journalist always on the hunt for a scoop. But when Claires newest story leads to a violent confrontation, Trevors newly peaceful life is shattered as he tries to find out why.",
+	"publisher" : "Little Brown and Company",
+	"pages" : "480",
+	"image_url" : "https://prodimage.images-bn.com/pimages/9781455584970_p0_v1_s550x406.jpg",
+	"buy_url" : "https://www.barnesandnoble.com/w/truth-or-die-james-patterson/1120509003?ean=9781455584970#/"
+}
+{
+	"_id" : ObjectId("5d34c83e5e60c412a2882d67"),
+	"title" : "The Notebook",
+	"description" : "Every so often a love story so captures our hearts that it becomes more than a story-it becomes an experience to remember forever. The Notebook is such a book. It is a celebration of how passion can be ageless and timeless, a tale that moves us to laughter and tears and makes us believe in true love all over again",
+	"genre" : "Romance",
+	"author" : "Nicholas Sparks",
+	"publisher" : "FooBar",
+	"pages" : "400",
+	"buy_url" : "https://www.barnesandnoble.com/w/notebook-nicholas-sparks/1100298896?ean=9781455582877#/",
+	"create_date" : ISODate("2019-07-21T20:17:02.957Z"),
+	"__v" : 0
+}
+> db.genres.find().pretty()
+{ "_id" : ObjectId("5d34b7ba0c1682e700a58c78"), "name" : "Thriller" }
+{ "_id" : ObjectId("5d34b7d80c1682e700a58c79"), "name" : "Self Help" }
+{
+	"_id" : ObjectId("5d34c6a5e65e020cd12e1794"),
+	"create_date" : ISODate("2019-07-21T20:09:41.619Z"),
+	"name" : "Romance",
+	"__v" : 0
+}
+> db.genres.find().pretty()
+{ "_id" : ObjectId("5d34b7ba0c1682e700a58c78"), "name" : "Thriller" }
+{
+	"_id" : ObjectId("5d34c6a5e65e020cd12e1794"),
+	"create_date" : ISODate("2019-07-21T20:09:41.619Z"),
+	"name" : "Romance",
+	"__v" : 0
+}
+> db.books.find().pretty()
+{
+	"_id" : ObjectId("5d34ba090c1682e700a58c7a"),
+	"title" : "Murder House",
+	"genre" : null,
+	"description" : null,
+	"author" : null,
+	"publisher" : null,
+	"pages" : null,
+	"image_url" : null,
+	"buy_url" : null
+}
+{
+	"_id" : ObjectId("5d34bb5b0c1682e700a58c7b"),
+	"title" : "Truth Or Die",
+	"genre" : "Suspense",
+	"description" : "After a serious professional stumble, attorney Trevor Mann may have finally hit his stride. Hes found happiness with his girlfriend Claire Parker, a beautiful, ambitious journalist always on the hunt for a scoop. But when Claires newest story leads to a violent confrontation, Trevors newly peaceful life is shattered as he tries to find out why.",
+	"publisher" : "Little Brown and Company",
+	"pages" : "480",
+	"image_url" : "https://prodimage.images-bn.com/pimages/9781455584970_p0_v1_s550x406.jpg",
+	"buy_url" : "https://www.barnesandnoble.com/w/truth-or-die-james-patterson/1120509003?ean=9781455584970#/"
+}
+{
+	"_id" : ObjectId("5d34c83e5e60c412a2882d67"),
+	"title" : "The Notebook",
+	"description" : "Every so often a love story so captures our hearts that it becomes more than a story-it becomes an experience to remember forever. The Notebook is such a book. It is a celebration of how passion can be ageless and timeless, a tale that moves us to laughter and tears and makes us believe in true love all over again",
+	"genre" : "Romance",
+	"author" : "Nicholas Sparks",
+	"publisher" : "FooBar",
+	"pages" : "400",
+	"buy_url" : "https://www.barnesandnoble.com/w/notebook-nicholas-sparks/1100298896?ean=9781455582877#/",
+	"create_date" : ISODate("2019-07-21T20:17:02.957Z"),
+	"__v" : 0
+}
+> 

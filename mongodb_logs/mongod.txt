@@ -1,0 +1,15 @@
+Last login: Sun Jul 21 12:59:05 on ttys007
+Noahs-MacBook-Pro:~ noahtaylor$ ls
+Applications		Movies			get-pip.py
+Desktop			Music			node_modules
+Documents		Pictures		package-lock.json
+Downloads		Postman
+Library			Public
+Noahs-MacBook-Pro:~ noahtaylor$ cd Documents/
+.DS_Store   education/  imovie/     work/       
+.localized  git-repos/  school/     
+Noahs-MacBook-Pro:~ noahtaylor$ cd Documents/git-repos/CRUD-help/
+Noahs-MacBook-Pro:CRUD-help noahtaylor$ ls
+app.js			node_modules		package.json
+models			package-lock.json
+Noahs-MacBook-Pro:CRUD-help noahtaylor$ mongod
